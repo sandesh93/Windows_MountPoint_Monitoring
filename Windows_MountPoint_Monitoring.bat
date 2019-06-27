@@ -1,0 +1,1 @@
+Powershell -File F:\Windows_MountPoint_Monitoring\Windows_MountPoint_Monitoring.ps1

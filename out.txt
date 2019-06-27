@@ -1,0 +1,6 @@
+@{MountPoint=D; Free_Space=8.46}
+@{MountPoint=S; Free_Space=77.40}
+@{MountPoint=WINRE_DRV; Free_Space=68.14}
+@{MountPoint=C; Free_Space=12.85}
+@{MountPoint=F; Free_Space=97.13}
+@{MountPoint=PBR_DRV; Free_Space=23.09}

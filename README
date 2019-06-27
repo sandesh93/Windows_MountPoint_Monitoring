@@ -1,0 +1,23 @@
+Pre-requisites
+	Powershell version 5.0 or above should be available.
+	Powershell script execution permission should be there.
+	All required component,component instance is created on appsone ui
+	Required KPI is added to component.
+
+Configuration
+ 
+    The KPI name will be configurable in Config.ps1.
+	Component Name will be user defined and should be provided in Config.ps1.
+    Component Instance Name, Remote IP and Remote Port will be configurable in Config.ps1 as colon separated values and entering correct values would be user's responsibility.ex: $DEATAILS[0] = "MyComponentInstanceName:10.1.1.170:25"
+	$DEATAILS[1] = "MyComponentInstanceName:10.1.1.175:25"
+    
+	If any field IP:Port pair is blank, the script would ignore the entry.
+    If Component Instance name is not given, then it could will be default value, i.e. baseIP(from where the script runs)_remoteIP(the IP we are monitoring)_remotePort and it will be created dynamically by the script. Ex: 10_1_1_174_25. But it has to be created in the same name at A1 UI, otherwise it won't be captured.
+   
+
+	
+Usage
+    The script runs like below:
+	.\Windows_MountPoint_Monitoring.ps1 -h [Display help message]
+	.\Windows_MountPoint_Monitoring.ps1 -v [Display version]
+    .\Windows_MountPoint_Monitoring.ps1 
