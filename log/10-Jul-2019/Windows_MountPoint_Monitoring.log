@@ -1,0 +1,2346 @@
+07/10/2019 19:17:11 : INFO -----------------------Execution started--------------------
+07/10/2019 19:17:12 : INFO ----Config.ps1 Processing started----
+07/10/2019 19:17:12 : INFO Reading variables from Config.ps1
+07/10/2019 19:17:12 : INFO Config.ps1 included
+07/10/2019 19:17:17 : INFO xml created as below:
+<A1 xsi:noNamespaceSchemaLocation="A1DCASchema.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<A1Request id="cc227e53-69c1-4191-88ae-452b034d2a64" version="1.0" mode="MONITOR">
+<Data>
+<ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" enterprise="HDFC" >
+<KPIs>
+<KPI name="C" value="42"/>
+<KPI name="Time" value="2019-07-10 13:47:17"/>
+</KPIs>
+</ComponentInstance>
+<ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" enterprise="HDFC" >
+<KPIs>
+<KPI name="D" value="1"/>
+<KPI name="Time" value="2019-07-10 13:47:17"/>
+</KPIs>
+</ComponentInstance>
+<ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" enterprise="HDFC" >
+<KPIs>
+<KPI name="E" value="6"/>
+<KPI name="Time" value="2019-07-10 13:47:17"/>
+</KPIs>
+</ComponentInstance>
+<ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" enterprise="HDFC" >
+<KPIs>
+<KPI name="F" value="31"/>
+<KPI name="Time" value="2019-07-10 13:47:17"/>
+</KPIs>
+</ComponentInstance>
+<ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" enterprise="HDFC" >
+<KPIs>
+<KPI name="V" value="44"/>
+<KPI name="Time" value="2019-07-10 13:47:17"/>
+</KPIs>
+</ComponentInstance>
+<ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" enterprise="HDFC" >
+<KPIs>
+<KPI name="S" value="85"/>
+<KPI name="Time" value="2019-07-10 13:47:17"/>
+</KPIs>
+</ComponentInstance>
+<ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" enterprise="HDFC" >
+<KPIs>
+<KPI name="ARCH_FG2_25L" value="100"/>
+<KPI name="Time" value="2019-07-10 13:47:17"/>
+</KPIs>
+</ComponentInstance>
+<ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" enterprise="HDFC" >
+<KPIs>
+<KPI name="T" value="93"/>
+<KPI name="Time" value="2019-07-10 13:47:17"/>
+</KPIs>
+</ComponentInstance>
+<ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" enterprise="HDFC" >
+<KPIs>
+<KPI name="Z" value="75"/>
+<KPI name="Time" value="2019-07-10 13:47:17"/>
+</KPIs>
+</ComponentInstance>
+<ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" enterprise="HDFC" >
+<KPIs>
+<KPI name="DATA04" value="18"/>
+<KPI name="Time" value="2019-07-10 13:47:17"/>
+</KPIs>
+</ComponentInstance>
+<ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" enterprise="HDFC" >
+<KPIs>
+<KPI name="DATA03" value="100"/>
+<KPI name="Time" value="2019-07-10 13:47:17"/>
+</KPIs>
+</ComponentInstance>
+<ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" enterprise="HDFC" >
+<KPIs>
+<KPI name="DATA02" value="96"/>
+<KPI name="Time" value="2019-07-10 13:47:17"/>
+</KPIs>
+</ComponentInstance>
+<ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" enterprise="HDFC" >
+<KPIs>
+<KPI name="DATA01" value="100"/>
+<KPI name="Time" value="2019-07-10 13:47:17"/>
+</KPIs>
+</ComponentInstance>
+<ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" enterprise="HDFC" >
+<KPIs>
+<KPI name="X" value="97"/>
+<KPI name="Time" value="2019-07-10 13:47:17"/>
+</KPIs>
+</ComponentInstance>
+<ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" enterprise="HDFC" >
+<KPIs>
+<KPI name="U" value="10"/>
+<KPI name="Time" value="2019-07-10 13:47:17"/>
+</KPIs>
+</ComponentInstance>
+<ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" enterprise="HDFC" >
+<KPIs>
+<KPI name="W" value="12"/>
+<KPI name="Time" value="2019-07-10 13:47:17"/>
+</KPIs>
+</ComponentInstance>
+<ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" enterprise="HDFC" >
+<KPIs>
+<KPI name="Y" value="38"/>
+<KPI name="Time" value="2019-07-10 13:47:17"/>
+</KPIs>
+</ComponentInstance>
+<ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" enterprise="HDFC" >
+<KPIs>
+<KPI name="DATA05" value="100"/>
+<KPI name="Time" value="2019-07-10 13:47:17"/>
+</KPIs>
+</ComponentInstance>
+<ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" enterprise="HDFC" >
+<KPIs>
+<KPI name="DATA06" value="100"/>
+<KPI name="Time" value="2019-07-10 13:47:17"/>
+</KPIs>
+</ComponentInstance>
+<ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" enterprise="HDFC" >
+<KPIs>
+<KPI name="DATA07" value="100"/>
+<KPI name="Time" value="2019-07-10 13:47:17"/>
+</KPIs>
+</ComponentInstance>
+</Data>
+</A1Request>
+</A1>
+07/10/2019 19:17:17 : INFO Trying to send data to appsone
+07/10/2019 19:17:18 : INFO Response Below:
+<A1 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="A1DCASchema.xsd"><A1Response version="1.0" id="cc227e53-69c1-4191-88ae-452b034d2a64" mode="MONITOR" ><Data><ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" ><Property value="null" result="SUCCESS" /></ComponentInstance><ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" ><Property value="null" result="SUCCESS" /></ComponentInstance><ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" ><Property value="null" result="SUCCESS" /></ComponentInstance><ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" ><Property value="null" result="SUCCESS" /></ComponentInstance><ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" ><Property value="null" result="SUCCESS" /></ComponentInstance><ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" ><Property value="null" result="SUCCESS" /></ComponentInstance><ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" ><Property value="null" result="SUCCESS" /></ComponentInstance><ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" ><Property value="null" result="SUCCESS" /></ComponentInstance><ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" ><Property value="null" result="SUCCESS" /></ComponentInstance><ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" ><Property value="null" result="SUCCESS" /></ComponentInstance><ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" ><Property value="null" result="SUCCESS" /></ComponentInstance><ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" ><Property value="null" result="SUCCESS" /></ComponentInstance><ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" ><Property value="null" result="SUCCESS" /></ComponentInstance><ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" ><Property value="null" result="SUCCESS" /></ComponentInstance><ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" ><Property value="null" result="SUCCESS" /></ComponentInstance><ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" ><Property value="null" result="SUCCESS" /></ComponentInstance><ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" ><Property value="null" result="SUCCESS" /></ComponentInstance><ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" ><Property value="null" result="SUCCESS" /></ComponentInstance><ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" ><Property value="null" result="SUCCESS" /></ComponentInstance><ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" ><Property value="null" result="SUCCESS" /></ComponentInstance></Data></A1Response></A1>
+07/10/2019 19:17:18 : INFO Processing finished
+07/10/2019 19:17:18 : INFO Purge days : 1
+07/10/2019 19:17:18 : INFO Clearing log files and folders older than 1 days
+07/10/2019 19:17:18 : INFO ---------------------Execution finished-------------------
+07/10/2019 19:18:53 : INFO -----------------------Execution started--------------------
+07/10/2019 19:18:53 : INFO ----Config.ps1 Processing started----
+07/10/2019 19:18:53 : INFO Reading variables from Config.ps1
+07/10/2019 19:18:53 : INFO Config.ps1 included
+07/10/2019 19:18:59 : INFO xml created as below:
+<A1 xsi:noNamespaceSchemaLocation="A1DCASchema.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<A1Request id="cc227e53-69c1-4191-88ae-452b034d2a64" version="1.0" mode="MONITOR">
+<Data>
+<ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" enterprise="HDFC" >
+<KPIs>
+<KPI name="C" value="42"/>
+<KPI name="Time" value="2019-07-10 13:48:59"/>
+</KPIs>
+</ComponentInstance>
+<ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" enterprise="HDFC" >
+<KPIs>
+<KPI name="D" value="1"/>
+<KPI name="Time" value="2019-07-10 13:48:59"/>
+</KPIs>
+</ComponentInstance>
+<ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" enterprise="HDFC" >
+<KPIs>
+<KPI name="E" value="6"/>
+<KPI name="Time" value="2019-07-10 13:48:59"/>
+</KPIs>
+</ComponentInstance>
+<ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" enterprise="HDFC" >
+<KPIs>
+<KPI name="F" value="31"/>
+<KPI name="Time" value="2019-07-10 13:48:59"/>
+</KPIs>
+</ComponentInstance>
+<ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" enterprise="HDFC" >
+<KPIs>
+<KPI name="V" value="44"/>
+<KPI name="Time" value="2019-07-10 13:48:59"/>
+</KPIs>
+</ComponentInstance>
+<ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" enterprise="HDFC" >
+<KPIs>
+<KPI name="S" value="85"/>
+<KPI name="Time" value="2019-07-10 13:48:59"/>
+</KPIs>
+</ComponentInstance>
+<ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" enterprise="HDFC" >
+<KPIs>
+<KPI name="ARCH_FG2_25L" value="100"/>
+<KPI name="Time" value="2019-07-10 13:48:59"/>
+</KPIs>
+</ComponentInstance>
+<ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" enterprise="HDFC" >
+<KPIs>
+<KPI name="T" value="93"/>
+<KPI name="Time" value="2019-07-10 13:48:59"/>
+</KPIs>
+</ComponentInstance>
+<ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" enterprise="HDFC" >
+<KPIs>
+<KPI name="Z" value="75"/>
+<KPI name="Time" value="2019-07-10 13:48:59"/>
+</KPIs>
+</ComponentInstance>
+<ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" enterprise="HDFC" >
+<KPIs>
+<KPI name="DATA04" value="18"/>
+<KPI name="Time" value="2019-07-10 13:48:59"/>
+</KPIs>
+</ComponentInstance>
+<ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" enterprise="HDFC" >
+<KPIs>
+<KPI name="DATA03" value="100"/>
+<KPI name="Time" value="2019-07-10 13:48:59"/>
+</KPIs>
+</ComponentInstance>
+<ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" enterprise="HDFC" >
+<KPIs>
+<KPI name="DATA02" value="96"/>
+<KPI name="Time" value="2019-07-10 13:48:59"/>
+</KPIs>
+</ComponentInstance>
+<ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" enterprise="HDFC" >
+<KPIs>
+<KPI name="DATA01" value="100"/>
+<KPI name="Time" value="2019-07-10 13:48:59"/>
+</KPIs>
+</ComponentInstance>
+<ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" enterprise="HDFC" >
+<KPIs>
+<KPI name="X" value="97"/>
+<KPI name="Time" value="2019-07-10 13:48:59"/>
+</KPIs>
+</ComponentInstance>
+<ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" enterprise="HDFC" >
+<KPIs>
+<KPI name="U" value="10"/>
+<KPI name="Time" value="2019-07-10 13:48:59"/>
+</KPIs>
+</ComponentInstance>
+<ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" enterprise="HDFC" >
+<KPIs>
+<KPI name="W" value="12"/>
+<KPI name="Time" value="2019-07-10 13:48:59"/>
+</KPIs>
+</ComponentInstance>
+<ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" enterprise="HDFC" >
+<KPIs>
+<KPI name="Y" value="38"/>
+<KPI name="Time" value="2019-07-10 13:48:59"/>
+</KPIs>
+</ComponentInstance>
+<ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" enterprise="HDFC" >
+<KPIs>
+<KPI name="DATA05" value="100"/>
+<KPI name="Time" value="2019-07-10 13:48:59"/>
+</KPIs>
+</ComponentInstance>
+<ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" enterprise="HDFC" >
+<KPIs>
+<KPI name="DATA06" value="100"/>
+<KPI name="Time" value="2019-07-10 13:48:59"/>
+</KPIs>
+</ComponentInstance>
+<ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" enterprise="HDFC" >
+<KPIs>
+<KPI name="DATA07" value="100"/>
+<KPI name="Time" value="2019-07-10 13:48:59"/>
+</KPIs>
+</ComponentInstance>
+</Data>
+</A1Request>
+</A1>
+07/10/2019 19:18:59 : INFO Trying to send data to appsone
+07/10/2019 19:19:00 : INFO Response Below:
+<A1 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="A1DCASchema.xsd"><A1Response version="1.0" id="cc227e53-69c1-4191-88ae-452b034d2a64" mode="MONITOR" ><Data><ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" ><Property value="null" result="SUCCESS" /></ComponentInstance><ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" ><Property value="null" result="SUCCESS" /></ComponentInstance><ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" ><Property value="null" result="SUCCESS" /></ComponentInstance><ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" ><Property value="null" result="SUCCESS" /></ComponentInstance><ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" ><Property value="null" result="SUCCESS" /></ComponentInstance><ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" ><Property value="null" result="SUCCESS" /></ComponentInstance><ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" ><Property value="null" result="SUCCESS" /></ComponentInstance><ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" ><Property value="null" result="SUCCESS" /></ComponentInstance><ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" ><Property value="null" result="SUCCESS" /></ComponentInstance><ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" ><Property value="null" result="SUCCESS" /></ComponentInstance><ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" ><Property value="null" result="SUCCESS" /></ComponentInstance><ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" ><Property value="null" result="SUCCESS" /></ComponentInstance><ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" ><Property value="null" result="SUCCESS" /></ComponentInstance><ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" ><Property value="null" result="SUCCESS" /></ComponentInstance><ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" ><Property value="null" result="SUCCESS" /></ComponentInstance><ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" ><Property value="null" result="SUCCESS" /></ComponentInstance><ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" ><Property value="null" result="SUCCESS" /></ComponentInstance><ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" ><Property value="null" result="SUCCESS" /></ComponentInstance><ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" ><Property value="null" result="SUCCESS" /></ComponentInstance><ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" ><Property value="null" result="SUCCESS" /></ComponentInstance></Data></A1Response></A1>
+07/10/2019 19:19:00 : INFO Processing finished
+07/10/2019 19:19:00 : INFO Purge days : 1
+07/10/2019 19:19:00 : INFO Clearing log files and folders older than 1 days
+07/10/2019 19:19:00 : INFO ---------------------Execution finished-------------------
+07/10/2019 19:19:56 : INFO -----------------------Execution started--------------------
+07/10/2019 19:19:56 : INFO ----Config.ps1 Processing started----
+07/10/2019 19:19:56 : INFO Reading variables from Config.ps1
+07/10/2019 19:19:56 : INFO Config.ps1 included
+07/10/2019 19:20:00 : INFO xml created as below:
+<A1 xsi:noNamespaceSchemaLocation="A1DCASchema.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<A1Request id="cc227e53-69c1-4191-88ae-452b034d2a64" version="1.0" mode="MONITOR">
+<Data>
+<ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" enterprise="HDFC" >
+<KPIs>
+<KPI name="C" value="42"/>
+<KPI name="Time" value="2019-07-10 13:50:00"/>
+</KPIs>
+</ComponentInstance>
+<ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" enterprise="HDFC" >
+<KPIs>
+<KPI name="D" value="1"/>
+<KPI name="Time" value="2019-07-10 13:50:00"/>
+</KPIs>
+</ComponentInstance>
+<ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" enterprise="HDFC" >
+<KPIs>
+<KPI name="E" value="6"/>
+<KPI name="Time" value="2019-07-10 13:50:00"/>
+</KPIs>
+</ComponentInstance>
+<ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" enterprise="HDFC" >
+<KPIs>
+<KPI name="F" value="31"/>
+<KPI name="Time" value="2019-07-10 13:50:00"/>
+</KPIs>
+</ComponentInstance>
+<ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" enterprise="HDFC" >
+<KPIs>
+<KPI name="V" value="44"/>
+<KPI name="Time" value="2019-07-10 13:50:00"/>
+</KPIs>
+</ComponentInstance>
+<ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" enterprise="HDFC" >
+<KPIs>
+<KPI name="S" value="85"/>
+<KPI name="Time" value="2019-07-10 13:50:00"/>
+</KPIs>
+</ComponentInstance>
+<ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" enterprise="HDFC" >
+<KPIs>
+<KPI name="ARCH_FG2_25L" value="100"/>
+<KPI name="Time" value="2019-07-10 13:50:00"/>
+</KPIs>
+</ComponentInstance>
+<ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" enterprise="HDFC" >
+<KPIs>
+<KPI name="T" value="93"/>
+<KPI name="Time" value="2019-07-10 13:50:00"/>
+</KPIs>
+</ComponentInstance>
+<ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" enterprise="HDFC" >
+<KPIs>
+<KPI name="Z" value="75"/>
+<KPI name="Time" value="2019-07-10 13:50:00"/>
+</KPIs>
+</ComponentInstance>
+<ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" enterprise="HDFC" >
+<KPIs>
+<KPI name="DATA04" value="18"/>
+<KPI name="Time" value="2019-07-10 13:50:00"/>
+</KPIs>
+</ComponentInstance>
+<ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" enterprise="HDFC" >
+<KPIs>
+<KPI name="DATA03" value="100"/>
+<KPI name="Time" value="2019-07-10 13:50:00"/>
+</KPIs>
+</ComponentInstance>
+<ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" enterprise="HDFC" >
+<KPIs>
+<KPI name="DATA02" value="96"/>
+<KPI name="Time" value="2019-07-10 13:50:00"/>
+</KPIs>
+</ComponentInstance>
+<ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" enterprise="HDFC" >
+<KPIs>
+<KPI name="DATA01" value="100"/>
+<KPI name="Time" value="2019-07-10 13:50:00"/>
+</KPIs>
+</ComponentInstance>
+<ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" enterprise="HDFC" >
+<KPIs>
+<KPI name="X" value="97"/>
+<KPI name="Time" value="2019-07-10 13:50:00"/>
+</KPIs>
+</ComponentInstance>
+<ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" enterprise="HDFC" >
+<KPIs>
+<KPI name="U" value="10"/>
+<KPI name="Time" value="2019-07-10 13:50:00"/>
+</KPIs>
+</ComponentInstance>
+<ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" enterprise="HDFC" >
+<KPIs>
+<KPI name="W" value="12"/>
+<KPI name="Time" value="2019-07-10 13:50:00"/>
+</KPIs>
+</ComponentInstance>
+<ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" enterprise="HDFC" >
+<KPIs>
+<KPI name="Y" value="38"/>
+<KPI name="Time" value="2019-07-10 13:50:00"/>
+</KPIs>
+</ComponentInstance>
+<ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" enterprise="HDFC" >
+<KPIs>
+<KPI name="DATA05" value="100"/>
+<KPI name="Time" value="2019-07-10 13:50:00"/>
+</KPIs>
+</ComponentInstance>
+<ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" enterprise="HDFC" >
+<KPIs>
+<KPI name="DATA06" value="100"/>
+<KPI name="Time" value="2019-07-10 13:50:00"/>
+</KPIs>
+</ComponentInstance>
+<ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" enterprise="HDFC" >
+<KPIs>
+<KPI name="DATA07" value="100"/>
+<KPI name="Time" value="2019-07-10 13:50:00"/>
+</KPIs>
+</ComponentInstance>
+</Data>
+</A1Request>
+</A1>
+07/10/2019 19:20:00 : INFO Trying to send data to appsone
+07/10/2019 19:20:02 : INFO Response Below:
+<A1 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="A1DCASchema.xsd"><A1Response version="1.0" id="cc227e53-69c1-4191-88ae-452b034d2a64" mode="MONITOR" ><Data><ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" ><Property value="null" result="SUCCESS" /></ComponentInstance><ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" ><Property value="null" result="SUCCESS" /></ComponentInstance><ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" ><Property value="null" result="SUCCESS" /></ComponentInstance><ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" ><Property value="null" result="SUCCESS" /></ComponentInstance><ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" ><Property value="null" result="SUCCESS" /></ComponentInstance><ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" ><Property value="null" result="SUCCESS" /></ComponentInstance><ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" ><Property value="null" result="SUCCESS" /></ComponentInstance><ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" ><Property value="null" result="SUCCESS" /></ComponentInstance><ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" ><Property value="null" result="SUCCESS" /></ComponentInstance><ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" ><Property value="null" result="SUCCESS" /></ComponentInstance><ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" ><Property value="null" result="SUCCESS" /></ComponentInstance><ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" ><Property value="null" result="SUCCESS" /></ComponentInstance><ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" ><Property value="null" result="SUCCESS" /></ComponentInstance><ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" ><Property value="null" result="SUCCESS" /></ComponentInstance><ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" ><Property value="null" result="SUCCESS" /></ComponentInstance><ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" ><Property value="null" result="SUCCESS" /></ComponentInstance><ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" ><Property value="null" result="SUCCESS" /></ComponentInstance><ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" ><Property value="null" result="SUCCESS" /></ComponentInstance><ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" ><Property value="null" result="SUCCESS" /></ComponentInstance><ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" ><Property value="null" result="SUCCESS" /></ComponentInstance></Data></A1Response></A1>
+07/10/2019 19:20:02 : INFO Processing finished
+07/10/2019 19:20:02 : INFO Purge days : 1
+07/10/2019 19:20:02 : INFO Clearing log files and folders older than 1 days
+07/10/2019 19:20:02 : INFO ---------------------Execution finished-------------------
+07/10/2019 19:20:47 : INFO -----------------------Execution started--------------------
+07/10/2019 19:20:48 : INFO ----Config.ps1 Processing started----
+07/10/2019 19:20:48 : INFO Reading variables from Config.ps1
+07/10/2019 19:20:48 : INFO Config.ps1 included
+07/10/2019 19:20:53 : INFO xml created as below:
+<A1 xsi:noNamespaceSchemaLocation="A1DCASchema.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<A1Request id="cc227e53-69c1-4191-88ae-452b034d2a64" version="1.0" mode="MONITOR">
+<Data>
+<ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" enterprise="HDFC" >
+<KPIs>
+<KPI name="C" value="42"/>
+<KPI name="Time" value="2019-07-10 13:50:53"/>
+</KPIs>
+</ComponentInstance>
+<ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" enterprise="HDFC" >
+<KPIs>
+<KPI name="D" value="1"/>
+<KPI name="Time" value="2019-07-10 13:50:53"/>
+</KPIs>
+</ComponentInstance>
+<ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" enterprise="HDFC" >
+<KPIs>
+<KPI name="E" value="6"/>
+<KPI name="Time" value="2019-07-10 13:50:53"/>
+</KPIs>
+</ComponentInstance>
+<ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" enterprise="HDFC" >
+<KPIs>
+<KPI name="F" value="31"/>
+<KPI name="Time" value="2019-07-10 13:50:53"/>
+</KPIs>
+</ComponentInstance>
+<ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" enterprise="HDFC" >
+<KPIs>
+<KPI name="V" value="44"/>
+<KPI name="Time" value="2019-07-10 13:50:53"/>
+</KPIs>
+</ComponentInstance>
+<ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" enterprise="HDFC" >
+<KPIs>
+<KPI name="S" value="85"/>
+<KPI name="Time" value="2019-07-10 13:50:53"/>
+</KPIs>
+</ComponentInstance>
+<ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" enterprise="HDFC" >
+<KPIs>
+<KPI name="ARCH_FG2_25L" value="100"/>
+<KPI name="Time" value="2019-07-10 13:50:53"/>
+</KPIs>
+</ComponentInstance>
+<ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" enterprise="HDFC" >
+<KPIs>
+<KPI name="T" value="93"/>
+<KPI name="Time" value="2019-07-10 13:50:53"/>
+</KPIs>
+</ComponentInstance>
+<ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" enterprise="HDFC" >
+<KPIs>
+<KPI name="Z" value="75"/>
+<KPI name="Time" value="2019-07-10 13:50:53"/>
+</KPIs>
+</ComponentInstance>
+<ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" enterprise="HDFC" >
+<KPIs>
+<KPI name="DATA04" value="18"/>
+<KPI name="Time" value="2019-07-10 13:50:53"/>
+</KPIs>
+</ComponentInstance>
+<ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" enterprise="HDFC" >
+<KPIs>
+<KPI name="DATA03" value="100"/>
+<KPI name="Time" value="2019-07-10 13:50:53"/>
+</KPIs>
+</ComponentInstance>
+<ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" enterprise="HDFC" >
+<KPIs>
+<KPI name="DATA02" value="96"/>
+<KPI name="Time" value="2019-07-10 13:50:53"/>
+</KPIs>
+</ComponentInstance>
+<ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" enterprise="HDFC" >
+<KPIs>
+<KPI name="DATA01" value="100"/>
+<KPI name="Time" value="2019-07-10 13:50:53"/>
+</KPIs>
+</ComponentInstance>
+<ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" enterprise="HDFC" >
+<KPIs>
+<KPI name="X" value="97"/>
+<KPI name="Time" value="2019-07-10 13:50:53"/>
+</KPIs>
+</ComponentInstance>
+<ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" enterprise="HDFC" >
+<KPIs>
+<KPI name="U" value="10"/>
+<KPI name="Time" value="2019-07-10 13:50:53"/>
+</KPIs>
+</ComponentInstance>
+<ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" enterprise="HDFC" >
+<KPIs>
+<KPI name="W" value="12"/>
+<KPI name="Time" value="2019-07-10 13:50:53"/>
+</KPIs>
+</ComponentInstance>
+<ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" enterprise="HDFC" >
+<KPIs>
+<KPI name="Y" value="38"/>
+<KPI name="Time" value="2019-07-10 13:50:53"/>
+</KPIs>
+</ComponentInstance>
+<ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" enterprise="HDFC" >
+<KPIs>
+<KPI name="DATA05" value="100"/>
+<KPI name="Time" value="2019-07-10 13:50:53"/>
+</KPIs>
+</ComponentInstance>
+<ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" enterprise="HDFC" >
+<KPIs>
+<KPI name="DATA06" value="100"/>
+<KPI name="Time" value="2019-07-10 13:50:53"/>
+</KPIs>
+</ComponentInstance>
+<ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" enterprise="HDFC" >
+<KPIs>
+<KPI name="DATA07" value="100"/>
+<KPI name="Time" value="2019-07-10 13:50:53"/>
+</KPIs>
+</ComponentInstance>
+</Data>
+</A1Request>
+</A1>
+07/10/2019 19:20:53 : INFO Trying to send data to appsone
+07/10/2019 19:20:55 : INFO Response Below:
+<A1 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="A1DCASchema.xsd"><A1Response version="1.0" id="cc227e53-69c1-4191-88ae-452b034d2a64" mode="MONITOR" ><Data><ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" ><Property value="null" result="SUCCESS" /></ComponentInstance><ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" ><Property value="null" result="SUCCESS" /></ComponentInstance><ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" ><Property value="null" result="SUCCESS" /></ComponentInstance><ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" ><Property value="null" result="SUCCESS" /></ComponentInstance><ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" ><Property value="null" result="SUCCESS" /></ComponentInstance><ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" ><Property value="null" result="SUCCESS" /></ComponentInstance><ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" ><Property value="null" result="SUCCESS" /></ComponentInstance><ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" ><Property value="null" result="SUCCESS" /></ComponentInstance><ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" ><Property value="null" result="SUCCESS" /></ComponentInstance><ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" ><Property value="null" result="SUCCESS" /></ComponentInstance><ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" ><Property value="null" result="SUCCESS" /></ComponentInstance><ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" ><Property value="null" result="SUCCESS" /></ComponentInstance><ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" ><Property value="null" result="SUCCESS" /></ComponentInstance><ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" ><Property value="null" result="SUCCESS" /></ComponentInstance><ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" ><Property value="null" result="SUCCESS" /></ComponentInstance><ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" ><Property value="null" result="SUCCESS" /></ComponentInstance><ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" ><Property value="null" result="SUCCESS" /></ComponentInstance><ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" ><Property value="null" result="SUCCESS" /></ComponentInstance><ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" ><Property value="null" result="SUCCESS" /></ComponentInstance><ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" ><Property value="null" result="SUCCESS" /></ComponentInstance></Data></A1Response></A1>
+07/10/2019 19:20:55 : INFO Processing finished
+07/10/2019 19:20:55 : INFO Purge days : 1
+07/10/2019 19:20:55 : INFO Clearing log files and folders older than 1 days
+07/10/2019 19:20:55 : INFO ---------------------Execution finished-------------------
+07/10/2019 19:22:01 : INFO -----------------------Execution started--------------------
+07/10/2019 19:22:01 : INFO ----Config.ps1 Processing started----
+07/10/2019 19:22:01 : INFO Reading variables from Config.ps1
+07/10/2019 19:22:01 : INFO Config.ps1 included
+07/10/2019 19:22:06 : INFO xml created as below:
+<A1 xsi:noNamespaceSchemaLocation="A1DCASchema.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<A1Request id="cc227e53-69c1-4191-88ae-452b034d2a64" version="1.0" mode="MONITOR">
+<Data>
+<ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" enterprise="HDFC" >
+<KPIs>
+<KPI name="C" value="42"/>
+<KPI name="Time" value="2019-07-10 13:52:05"/>
+</KPIs>
+</ComponentInstance>
+<ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" enterprise="HDFC" >
+<KPIs>
+<KPI name="D" value="1"/>
+<KPI name="Time" value="2019-07-10 13:52:05"/>
+</KPIs>
+</ComponentInstance>
+<ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" enterprise="HDFC" >
+<KPIs>
+<KPI name="E" value="6"/>
+<KPI name="Time" value="2019-07-10 13:52:05"/>
+</KPIs>
+</ComponentInstance>
+<ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" enterprise="HDFC" >
+<KPIs>
+<KPI name="F" value="31"/>
+<KPI name="Time" value="2019-07-10 13:52:05"/>
+</KPIs>
+</ComponentInstance>
+<ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" enterprise="HDFC" >
+<KPIs>
+<KPI name="V" value="44"/>
+<KPI name="Time" value="2019-07-10 13:52:05"/>
+</KPIs>
+</ComponentInstance>
+<ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" enterprise="HDFC" >
+<KPIs>
+<KPI name="S" value="85"/>
+<KPI name="Time" value="2019-07-10 13:52:06"/>
+</KPIs>
+</ComponentInstance>
+<ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" enterprise="HDFC" >
+<KPIs>
+<KPI name="ARCH_FG2_25L" value="100"/>
+<KPI name="Time" value="2019-07-10 13:52:06"/>
+</KPIs>
+</ComponentInstance>
+<ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" enterprise="HDFC" >
+<KPIs>
+<KPI name="T" value="93"/>
+<KPI name="Time" value="2019-07-10 13:52:06"/>
+</KPIs>
+</ComponentInstance>
+<ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" enterprise="HDFC" >
+<KPIs>
+<KPI name="Z" value="75"/>
+<KPI name="Time" value="2019-07-10 13:52:06"/>
+</KPIs>
+</ComponentInstance>
+<ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" enterprise="HDFC" >
+<KPIs>
+<KPI name="DATA04" value="18"/>
+<KPI name="Time" value="2019-07-10 13:52:06"/>
+</KPIs>
+</ComponentInstance>
+<ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" enterprise="HDFC" >
+<KPIs>
+<KPI name="DATA03" value="100"/>
+<KPI name="Time" value="2019-07-10 13:52:06"/>
+</KPIs>
+</ComponentInstance>
+<ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" enterprise="HDFC" >
+<KPIs>
+<KPI name="DATA02" value="96"/>
+<KPI name="Time" value="2019-07-10 13:52:06"/>
+</KPIs>
+</ComponentInstance>
+<ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" enterprise="HDFC" >
+<KPIs>
+<KPI name="DATA01" value="100"/>
+<KPI name="Time" value="2019-07-10 13:52:06"/>
+</KPIs>
+</ComponentInstance>
+<ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" enterprise="HDFC" >
+<KPIs>
+<KPI name="X" value="97"/>
+<KPI name="Time" value="2019-07-10 13:52:06"/>
+</KPIs>
+</ComponentInstance>
+<ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" enterprise="HDFC" >
+<KPIs>
+<KPI name="U" value="10"/>
+<KPI name="Time" value="2019-07-10 13:52:06"/>
+</KPIs>
+</ComponentInstance>
+<ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" enterprise="HDFC" >
+<KPIs>
+<KPI name="W" value="12"/>
+<KPI name="Time" value="2019-07-10 13:52:06"/>
+</KPIs>
+</ComponentInstance>
+<ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" enterprise="HDFC" >
+<KPIs>
+<KPI name="Y" value="38"/>
+<KPI name="Time" value="2019-07-10 13:52:06"/>
+</KPIs>
+</ComponentInstance>
+<ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" enterprise="HDFC" >
+<KPIs>
+<KPI name="DATA05" value="100"/>
+<KPI name="Time" value="2019-07-10 13:52:06"/>
+</KPIs>
+</ComponentInstance>
+<ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" enterprise="HDFC" >
+<KPIs>
+<KPI name="DATA06" value="100"/>
+<KPI name="Time" value="2019-07-10 13:52:06"/>
+</KPIs>
+</ComponentInstance>
+<ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" enterprise="HDFC" >
+<KPIs>
+<KPI name="DATA07" value="100"/>
+<KPI name="Time" value="2019-07-10 13:52:06"/>
+</KPIs>
+</ComponentInstance>
+</Data>
+</A1Request>
+</A1>
+07/10/2019 19:22:06 : INFO Trying to send data to appsone
+07/10/2019 19:22:07 : INFO Response Below:
+<A1 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="A1DCASchema.xsd"><A1Response version="1.0" id="cc227e53-69c1-4191-88ae-452b034d2a64" mode="MONITOR" ><Data><ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" ><Property value="null" result="SUCCESS" /></ComponentInstance><ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" ><Property value="null" result="SUCCESS" /></ComponentInstance><ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" ><Property value="null" result="SUCCESS" /></ComponentInstance><ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" ><Property value="null" result="SUCCESS" /></ComponentInstance><ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" ><Property value="null" result="SUCCESS" /></ComponentInstance><ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" ><Property value="null" result="SUCCESS" /></ComponentInstance><ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" ><Property value="null" result="SUCCESS" /></ComponentInstance><ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" ><Property value="null" result="SUCCESS" /></ComponentInstance><ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" ><Property value="null" result="SUCCESS" /></ComponentInstance><ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" ><Property value="null" result="SUCCESS" /></ComponentInstance><ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" ><Property value="null" result="SUCCESS" /></ComponentInstance><ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" ><Property value="null" result="SUCCESS" /></ComponentInstance><ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" ><Property value="null" result="SUCCESS" /></ComponentInstance><ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" ><Property value="null" result="SUCCESS" /></ComponentInstance><ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" ><Property value="null" result="SUCCESS" /></ComponentInstance><ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" ><Property value="null" result="SUCCESS" /></ComponentInstance><ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" ><Property value="null" result="SUCCESS" /></ComponentInstance><ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" ><Property value="null" result="SUCCESS" /></ComponentInstance><ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" ><Property value="null" result="SUCCESS" /></ComponentInstance><ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" ><Property value="null" result="SUCCESS" /></ComponentInstance></Data></A1Response></A1>
+07/10/2019 19:22:07 : INFO Processing finished
+07/10/2019 19:22:07 : INFO Purge days : 1
+07/10/2019 19:22:07 : INFO Clearing log files and folders older than 1 days
+07/10/2019 19:22:07 : INFO ---------------------Execution finished-------------------
+07/10/2019 19:22:43 : INFO -----------------------Execution started--------------------
+07/10/2019 19:22:43 : INFO ----Config.ps1 Processing started----
+07/10/2019 19:22:43 : INFO Reading variables from Config.ps1
+07/10/2019 19:22:43 : INFO Config.ps1 included
+07/10/2019 19:22:48 : INFO xml created as below:
+<A1 xsi:noNamespaceSchemaLocation="A1DCASchema.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<A1Request id="cc227e53-69c1-4191-88ae-452b034d2a64" version="1.0" mode="MONITOR">
+<Data>
+<ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" enterprise="HDFC" >
+<KPIs>
+<KPI name="C" value="42"/>
+<KPI name="Time" value="2019-07-10 13:52:48"/>
+</KPIs>
+</ComponentInstance>
+<ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" enterprise="HDFC" >
+<KPIs>
+<KPI name="D" value="1"/>
+<KPI name="Time" value="2019-07-10 13:52:48"/>
+</KPIs>
+</ComponentInstance>
+<ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" enterprise="HDFC" >
+<KPIs>
+<KPI name="E" value="6"/>
+<KPI name="Time" value="2019-07-10 13:52:48"/>
+</KPIs>
+</ComponentInstance>
+<ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" enterprise="HDFC" >
+<KPIs>
+<KPI name="F" value="31"/>
+<KPI name="Time" value="2019-07-10 13:52:48"/>
+</KPIs>
+</ComponentInstance>
+<ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" enterprise="HDFC" >
+<KPIs>
+<KPI name="V" value="44"/>
+<KPI name="Time" value="2019-07-10 13:52:48"/>
+</KPIs>
+</ComponentInstance>
+<ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" enterprise="HDFC" >
+<KPIs>
+<KPI name="S" value="85"/>
+<KPI name="Time" value="2019-07-10 13:52:48"/>
+</KPIs>
+</ComponentInstance>
+<ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" enterprise="HDFC" >
+<KPIs>
+<KPI name="ARCH_FG2_25L" value="100"/>
+<KPI name="Time" value="2019-07-10 13:52:48"/>
+</KPIs>
+</ComponentInstance>
+<ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" enterprise="HDFC" >
+<KPIs>
+<KPI name="T" value="93"/>
+<KPI name="Time" value="2019-07-10 13:52:48"/>
+</KPIs>
+</ComponentInstance>
+<ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" enterprise="HDFC" >
+<KPIs>
+<KPI name="Z" value="75"/>
+<KPI name="Time" value="2019-07-10 13:52:48"/>
+</KPIs>
+</ComponentInstance>
+<ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" enterprise="HDFC" >
+<KPIs>
+<KPI name="DATA04" value="18"/>
+<KPI name="Time" value="2019-07-10 13:52:48"/>
+</KPIs>
+</ComponentInstance>
+<ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" enterprise="HDFC" >
+<KPIs>
+<KPI name="DATA03" value="100"/>
+<KPI name="Time" value="2019-07-10 13:52:48"/>
+</KPIs>
+</ComponentInstance>
+<ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" enterprise="HDFC" >
+<KPIs>
+<KPI name="DATA02" value="96"/>
+<KPI name="Time" value="2019-07-10 13:52:48"/>
+</KPIs>
+</ComponentInstance>
+<ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" enterprise="HDFC" >
+<KPIs>
+<KPI name="DATA01" value="100"/>
+<KPI name="Time" value="2019-07-10 13:52:48"/>
+</KPIs>
+</ComponentInstance>
+<ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" enterprise="HDFC" >
+<KPIs>
+<KPI name="X" value="97"/>
+<KPI name="Time" value="2019-07-10 13:52:48"/>
+</KPIs>
+</ComponentInstance>
+<ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" enterprise="HDFC" >
+<KPIs>
+<KPI name="U" value="10"/>
+<KPI name="Time" value="2019-07-10 13:52:48"/>
+</KPIs>
+</ComponentInstance>
+<ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" enterprise="HDFC" >
+<KPIs>
+<KPI name="W" value="12"/>
+<KPI name="Time" value="2019-07-10 13:52:48"/>
+</KPIs>
+</ComponentInstance>
+<ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" enterprise="HDFC" >
+<KPIs>
+<KPI name="Y" value="38"/>
+<KPI name="Time" value="2019-07-10 13:52:48"/>
+</KPIs>
+</ComponentInstance>
+<ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" enterprise="HDFC" >
+<KPIs>
+<KPI name="DATA05" value="100"/>
+<KPI name="Time" value="2019-07-10 13:52:48"/>
+</KPIs>
+</ComponentInstance>
+<ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" enterprise="HDFC" >
+<KPIs>
+<KPI name="DATA06" value="100"/>
+<KPI name="Time" value="2019-07-10 13:52:48"/>
+</KPIs>
+</ComponentInstance>
+<ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" enterprise="HDFC" >
+<KPIs>
+<KPI name="DATA07" value="100"/>
+<KPI name="Time" value="2019-07-10 13:52:48"/>
+</KPIs>
+</ComponentInstance>
+</Data>
+</A1Request>
+</A1>
+07/10/2019 19:22:48 : INFO Trying to send data to appsone
+07/10/2019 19:22:49 : INFO Response Below:
+<A1 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="A1DCASchema.xsd"><A1Response version="1.0" id="cc227e53-69c1-4191-88ae-452b034d2a64" mode="MONITOR" ><Data><ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" ><Property value="null" result="SUCCESS" /></ComponentInstance><ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" ><Property value="null" result="SUCCESS" /></ComponentInstance><ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" ><Property value="null" result="SUCCESS" /></ComponentInstance><ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" ><Property value="null" result="SUCCESS" /></ComponentInstance><ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" ><Property value="null" result="SUCCESS" /></ComponentInstance><ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" ><Property value="null" result="SUCCESS" /></ComponentInstance><ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" ><Property value="null" result="SUCCESS" /></ComponentInstance><ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" ><Property value="null" result="SUCCESS" /></ComponentInstance><ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" ><Property value="null" result="SUCCESS" /></ComponentInstance><ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" ><Property value="null" result="SUCCESS" /></ComponentInstance><ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" ><Property value="null" result="SUCCESS" /></ComponentInstance><ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" ><Property value="null" result="SUCCESS" /></ComponentInstance><ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" ><Property value="null" result="SUCCESS" /></ComponentInstance><ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" ><Property value="null" result="SUCCESS" /></ComponentInstance><ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" ><Property value="null" result="SUCCESS" /></ComponentInstance><ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" ><Property value="null" result="SUCCESS" /></ComponentInstance><ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" ><Property value="null" result="SUCCESS" /></ComponentInstance><ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" ><Property value="null" result="SUCCESS" /></ComponentInstance><ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" ><Property value="null" result="SUCCESS" /></ComponentInstance><ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" ><Property value="null" result="SUCCESS" /></ComponentInstance></Data></A1Response></A1>
+07/10/2019 19:22:49 : INFO Processing finished
+07/10/2019 19:22:49 : INFO Purge days : 1
+07/10/2019 19:22:49 : INFO Clearing log files and folders older than 1 days
+07/10/2019 19:22:49 : INFO ---------------------Execution finished-------------------
+07/10/2019 19:23:12 : INFO -----------------------Execution started--------------------
+07/10/2019 19:23:12 : INFO ----Config.ps1 Processing started----
+07/10/2019 19:23:12 : INFO Reading variables from Config.ps1
+07/10/2019 19:23:13 : INFO Config.ps1 included
+07/10/2019 19:23:18 : INFO xml created as below:
+<A1 xsi:noNamespaceSchemaLocation="A1DCASchema.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<A1Request id="cc227e53-69c1-4191-88ae-452b034d2a64" version="1.0" mode="MONITOR">
+<Data>
+<ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" enterprise="HDFC" >
+<KPIs>
+<KPI name="C" value="42"/>
+<KPI name="Time" value="2019-07-10 13:53:18"/>
+</KPIs>
+</ComponentInstance>
+<ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" enterprise="HDFC" >
+<KPIs>
+<KPI name="D" value="1"/>
+<KPI name="Time" value="2019-07-10 13:53:18"/>
+</KPIs>
+</ComponentInstance>
+<ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" enterprise="HDFC" >
+<KPIs>
+<KPI name="E" value="6"/>
+<KPI name="Time" value="2019-07-10 13:53:18"/>
+</KPIs>
+</ComponentInstance>
+<ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" enterprise="HDFC" >
+<KPIs>
+<KPI name="F" value="31"/>
+<KPI name="Time" value="2019-07-10 13:53:18"/>
+</KPIs>
+</ComponentInstance>
+<ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" enterprise="HDFC" >
+<KPIs>
+<KPI name="V" value="44"/>
+<KPI name="Time" value="2019-07-10 13:53:18"/>
+</KPIs>
+</ComponentInstance>
+<ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" enterprise="HDFC" >
+<KPIs>
+<KPI name="S" value="85"/>
+<KPI name="Time" value="2019-07-10 13:53:18"/>
+</KPIs>
+</ComponentInstance>
+<ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" enterprise="HDFC" >
+<KPIs>
+<KPI name="ARCH_FG2_25L" value="100"/>
+<KPI name="Time" value="2019-07-10 13:53:18"/>
+</KPIs>
+</ComponentInstance>
+<ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" enterprise="HDFC" >
+<KPIs>
+<KPI name="T" value="93"/>
+<KPI name="Time" value="2019-07-10 13:53:18"/>
+</KPIs>
+</ComponentInstance>
+<ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" enterprise="HDFC" >
+<KPIs>
+<KPI name="Z" value="75"/>
+<KPI name="Time" value="2019-07-10 13:53:18"/>
+</KPIs>
+</ComponentInstance>
+<ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" enterprise="HDFC" >
+<KPIs>
+<KPI name="DATA04" value="18"/>
+<KPI name="Time" value="2019-07-10 13:53:18"/>
+</KPIs>
+</ComponentInstance>
+<ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" enterprise="HDFC" >
+<KPIs>
+<KPI name="DATA03" value="100"/>
+<KPI name="Time" value="2019-07-10 13:53:18"/>
+</KPIs>
+</ComponentInstance>
+<ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" enterprise="HDFC" >
+<KPIs>
+<KPI name="DATA02" value="96"/>
+<KPI name="Time" value="2019-07-10 13:53:18"/>
+</KPIs>
+</ComponentInstance>
+<ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" enterprise="HDFC" >
+<KPIs>
+<KPI name="DATA01" value="100"/>
+<KPI name="Time" value="2019-07-10 13:53:18"/>
+</KPIs>
+</ComponentInstance>
+<ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" enterprise="HDFC" >
+<KPIs>
+<KPI name="X" value="97"/>
+<KPI name="Time" value="2019-07-10 13:53:18"/>
+</KPIs>
+</ComponentInstance>
+<ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" enterprise="HDFC" >
+<KPIs>
+<KPI name="U" value="10"/>
+<KPI name="Time" value="2019-07-10 13:53:18"/>
+</KPIs>
+</ComponentInstance>
+<ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" enterprise="HDFC" >
+<KPIs>
+<KPI name="W" value="12"/>
+<KPI name="Time" value="2019-07-10 13:53:18"/>
+</KPIs>
+</ComponentInstance>
+<ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" enterprise="HDFC" >
+<KPIs>
+<KPI name="Y" value="38"/>
+<KPI name="Time" value="2019-07-10 13:53:18"/>
+</KPIs>
+</ComponentInstance>
+<ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" enterprise="HDFC" >
+<KPIs>
+<KPI name="DATA05" value="100"/>
+<KPI name="Time" value="2019-07-10 13:53:18"/>
+</KPIs>
+</ComponentInstance>
+<ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" enterprise="HDFC" >
+<KPIs>
+<KPI name="DATA06" value="100"/>
+<KPI name="Time" value="2019-07-10 13:53:18"/>
+</KPIs>
+</ComponentInstance>
+<ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" enterprise="HDFC" >
+<KPIs>
+<KPI name="DATA07" value="100"/>
+<KPI name="Time" value="2019-07-10 13:53:18"/>
+</KPIs>
+</ComponentInstance>
+</Data>
+</A1Request>
+</A1>
+07/10/2019 19:23:18 : INFO Trying to send data to appsone
+07/10/2019 19:23:19 : INFO Response Below:
+<A1 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="A1DCASchema.xsd"><A1Response version="1.0" id="cc227e53-69c1-4191-88ae-452b034d2a64" mode="MONITOR" ><Data><ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" ><Property value="null" result="SUCCESS" /></ComponentInstance><ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" ><Property value="null" result="SUCCESS" /></ComponentInstance><ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" ><Property value="null" result="SUCCESS" /></ComponentInstance><ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" ><Property value="null" result="SUCCESS" /></ComponentInstance><ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" ><Property value="null" result="SUCCESS" /></ComponentInstance><ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" ><Property value="null" result="SUCCESS" /></ComponentInstance><ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" ><Property value="null" result="SUCCESS" /></ComponentInstance><ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" ><Property value="null" result="SUCCESS" /></ComponentInstance><ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" ><Property value="null" result="SUCCESS" /></ComponentInstance><ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" ><Property value="null" result="SUCCESS" /></ComponentInstance><ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" ><Property value="null" result="SUCCESS" /></ComponentInstance><ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" ><Property value="null" result="SUCCESS" /></ComponentInstance><ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" ><Property value="null" result="SUCCESS" /></ComponentInstance><ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" ><Property value="null" result="SUCCESS" /></ComponentInstance><ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" ><Property value="null" result="SUCCESS" /></ComponentInstance><ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" ><Property value="null" result="SUCCESS" /></ComponentInstance><ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" ><Property value="null" result="SUCCESS" /></ComponentInstance><ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" ><Property value="null" result="SUCCESS" /></ComponentInstance><ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" ><Property value="null" result="SUCCESS" /></ComponentInstance><ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" ><Property value="null" result="SUCCESS" /></ComponentInstance></Data></A1Response></A1>
+07/10/2019 19:23:20 : INFO Processing finished
+07/10/2019 19:23:20 : INFO Purge days : 1
+07/10/2019 19:23:20 : INFO Clearing log files and folders older than 1 days
+07/10/2019 19:23:20 : INFO ---------------------Execution finished-------------------
+07/10/2019 19:25:29 : INFO -----------------------Execution started--------------------
+07/10/2019 19:25:29 : INFO ----Config.ps1 Processing started----
+07/10/2019 19:25:29 : INFO Reading variables from Config.ps1
+07/10/2019 19:25:29 : INFO Config.ps1 included
+07/10/2019 19:25:34 : INFO xml created as below:
+<A1 xsi:noNamespaceSchemaLocation="A1DCASchema.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<A1Request id="cc227e53-69c1-4191-88ae-452b034d2a64" version="1.0" mode="MONITOR">
+<Data>
+<ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" enterprise="HDFC" >
+<KPIs>
+<KPI name="C" value="42"/>
+<KPI name="Time" value="2019-07-10 13:55:33"/>
+</KPIs>
+</ComponentInstance>
+<ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" enterprise="HDFC" >
+<KPIs>
+<KPI name="D" value="1"/>
+<KPI name="Time" value="2019-07-10 13:55:33"/>
+</KPIs>
+</ComponentInstance>
+<ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" enterprise="HDFC" >
+<KPIs>
+<KPI name="E" value="6"/>
+<KPI name="Time" value="2019-07-10 13:55:33"/>
+</KPIs>
+</ComponentInstance>
+<ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" enterprise="HDFC" >
+<KPIs>
+<KPI name="F" value="31"/>
+<KPI name="Time" value="2019-07-10 13:55:34"/>
+</KPIs>
+</ComponentInstance>
+<ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" enterprise="HDFC" >
+<KPIs>
+<KPI name="V" value="44"/>
+<KPI name="Time" value="2019-07-10 13:55:34"/>
+</KPIs>
+</ComponentInstance>
+<ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" enterprise="HDFC" >
+<KPIs>
+<KPI name="S" value="85"/>
+<KPI name="Time" value="2019-07-10 13:55:34"/>
+</KPIs>
+</ComponentInstance>
+<ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" enterprise="HDFC" >
+<KPIs>
+<KPI name="ARCH_FG2_25L" value="100"/>
+<KPI name="Time" value="2019-07-10 13:55:34"/>
+</KPIs>
+</ComponentInstance>
+<ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" enterprise="HDFC" >
+<KPIs>
+<KPI name="T" value="93"/>
+<KPI name="Time" value="2019-07-10 13:55:34"/>
+</KPIs>
+</ComponentInstance>
+<ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" enterprise="HDFC" >
+<KPIs>
+<KPI name="Z" value="75"/>
+<KPI name="Time" value="2019-07-10 13:55:34"/>
+</KPIs>
+</ComponentInstance>
+<ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" enterprise="HDFC" >
+<KPIs>
+<KPI name="DATA04" value="18"/>
+<KPI name="Time" value="2019-07-10 13:55:34"/>
+</KPIs>
+</ComponentInstance>
+<ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" enterprise="HDFC" >
+<KPIs>
+<KPI name="DATA03" value="100"/>
+<KPI name="Time" value="2019-07-10 13:55:34"/>
+</KPIs>
+</ComponentInstance>
+<ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" enterprise="HDFC" >
+<KPIs>
+<KPI name="DATA02" value="96"/>
+<KPI name="Time" value="2019-07-10 13:55:34"/>
+</KPIs>
+</ComponentInstance>
+<ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" enterprise="HDFC" >
+<KPIs>
+<KPI name="DATA01" value="100"/>
+<KPI name="Time" value="2019-07-10 13:55:34"/>
+</KPIs>
+</ComponentInstance>
+<ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" enterprise="HDFC" >
+<KPIs>
+<KPI name="X" value="97"/>
+<KPI name="Time" value="2019-07-10 13:55:34"/>
+</KPIs>
+</ComponentInstance>
+<ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" enterprise="HDFC" >
+<KPIs>
+<KPI name="U" value="10"/>
+<KPI name="Time" value="2019-07-10 13:55:34"/>
+</KPIs>
+</ComponentInstance>
+<ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" enterprise="HDFC" >
+<KPIs>
+<KPI name="W" value="12"/>
+<KPI name="Time" value="2019-07-10 13:55:34"/>
+</KPIs>
+</ComponentInstance>
+<ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" enterprise="HDFC" >
+<KPIs>
+<KPI name="Y" value="38"/>
+<KPI name="Time" value="2019-07-10 13:55:34"/>
+</KPIs>
+</ComponentInstance>
+<ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" enterprise="HDFC" >
+<KPIs>
+<KPI name="DATA05" value="100"/>
+<KPI name="Time" value="2019-07-10 13:55:34"/>
+</KPIs>
+</ComponentInstance>
+<ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" enterprise="HDFC" >
+<KPIs>
+<KPI name="DATA06" value="100"/>
+<KPI name="Time" value="2019-07-10 13:55:34"/>
+</KPIs>
+</ComponentInstance>
+<ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" enterprise="HDFC" >
+<KPIs>
+<KPI name="DATA07" value="100"/>
+<KPI name="Time" value="2019-07-10 13:55:34"/>
+</KPIs>
+</ComponentInstance>
+</Data>
+</A1Request>
+</A1>
+07/10/2019 19:25:34 : INFO Trying to send data to appsone
+07/10/2019 19:25:35 : INFO Response Below:
+<A1 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="A1DCASchema.xsd"><A1Response version="1.0" id="cc227e53-69c1-4191-88ae-452b034d2a64" mode="MONITOR" ><Data><ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" ><Property value="null" result="SUCCESS" /></ComponentInstance><ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" ><Property value="null" result="SUCCESS" /></ComponentInstance><ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" ><Property value="null" result="SUCCESS" /></ComponentInstance><ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" ><Property value="null" result="SUCCESS" /></ComponentInstance><ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" ><Property value="null" result="SUCCESS" /></ComponentInstance><ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" ><Property value="null" result="SUCCESS" /></ComponentInstance><ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" ><Property value="null" result="SUCCESS" /></ComponentInstance><ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" ><Property value="null" result="SUCCESS" /></ComponentInstance><ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" ><Property value="null" result="SUCCESS" /></ComponentInstance><ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" ><Property value="null" result="SUCCESS" /></ComponentInstance><ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" ><Property value="null" result="SUCCESS" /></ComponentInstance><ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" ><Property value="null" result="SUCCESS" /></ComponentInstance><ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" ><Property value="null" result="SUCCESS" /></ComponentInstance><ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" ><Property value="null" result="SUCCESS" /></ComponentInstance><ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" ><Property value="null" result="SUCCESS" /></ComponentInstance><ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" ><Property value="null" result="SUCCESS" /></ComponentInstance><ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" ><Property value="null" result="SUCCESS" /></ComponentInstance><ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" ><Property value="null" result="SUCCESS" /></ComponentInstance><ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" ><Property value="null" result="SUCCESS" /></ComponentInstance><ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" ><Property value="null" result="SUCCESS" /></ComponentInstance></Data></A1Response></A1>
+07/10/2019 19:25:35 : INFO Processing finished
+07/10/2019 19:25:35 : INFO Purge days : 1
+07/10/2019 19:25:35 : INFO Clearing log files and folders older than 1 days
+07/10/2019 19:25:35 : INFO ---------------------Execution finished-------------------
+07/10/2019 19:54:50 : INFO -----------------------Execution started--------------------
+07/10/2019 19:54:50 : INFO ----Config.ps1 Processing started----
+07/10/2019 19:54:50 : INFO Reading variables from Config.ps1
+07/10/2019 19:54:50 : INFO Config.ps1 included
+07/10/2019 19:54:53 : INFO xml created as below:
+<A1 xsi:noNamespaceSchemaLocation="A1DCASchema.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<A1Request id="cc227e53-69c1-4191-88ae-452b034d2a64" version="1.0" mode="MONITOR">
+<Data>
+<ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" enterprise="HDFC" >
+<KPIs>
+<KPI name="C" value="47"/>
+<KPI name="Time" value="2019-07-10 14:24:52"/>
+</KPIs>
+</ComponentInstance>
+<ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" enterprise="HDFC" >
+<KPIs>
+<KPI name="D" value="1"/>
+<KPI name="Time" value="2019-07-10 14:24:52"/>
+</KPIs>
+</ComponentInstance>
+<ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" enterprise="HDFC" >
+<KPIs>
+<KPI name="E" value="6"/>
+<KPI name="Time" value="2019-07-10 14:24:52"/>
+</KPIs>
+</ComponentInstance>
+<ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" enterprise="HDFC" >
+<KPIs>
+<KPI name="F" value="31"/>
+<KPI name="Time" value="2019-07-10 14:24:52"/>
+</KPIs>
+</ComponentInstance>
+<ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" enterprise="HDFC" >
+<KPIs>
+<KPI name="V" value="44"/>
+<KPI name="Time" value="2019-07-10 14:24:52"/>
+</KPIs>
+</ComponentInstance>
+<ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" enterprise="HDFC" >
+<KPIs>
+<KPI name="S" value="85"/>
+<KPI name="Time" value="2019-07-10 14:24:52"/>
+</KPIs>
+</ComponentInstance>
+<ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" enterprise="HDFC" >
+<KPIs>
+<KPI name="ARCH_FG2_25L" value="100"/>
+<KPI name="Time" value="2019-07-10 14:24:52"/>
+</KPIs>
+</ComponentInstance>
+<ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" enterprise="HDFC" >
+<KPIs>
+<KPI name="T" value="93"/>
+<KPI name="Time" value="2019-07-10 14:24:52"/>
+</KPIs>
+</ComponentInstance>
+<ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" enterprise="HDFC" >
+<KPIs>
+<KPI name="Z" value="75"/>
+<KPI name="Time" value="2019-07-10 14:24:52"/>
+</KPIs>
+</ComponentInstance>
+<ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" enterprise="HDFC" >
+<KPIs>
+<KPI name="DATA04" value="18"/>
+<KPI name="Time" value="2019-07-10 14:24:52"/>
+</KPIs>
+</ComponentInstance>
+<ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" enterprise="HDFC" >
+<KPIs>
+<KPI name="DATA03" value="100"/>
+<KPI name="Time" value="2019-07-10 14:24:52"/>
+</KPIs>
+</ComponentInstance>
+<ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" enterprise="HDFC" >
+<KPIs>
+<KPI name="DATA02" value="96"/>
+<KPI name="Time" value="2019-07-10 14:24:52"/>
+</KPIs>
+</ComponentInstance>
+<ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" enterprise="HDFC" >
+<KPIs>
+<KPI name="DATA01" value="100"/>
+<KPI name="Time" value="2019-07-10 14:24:52"/>
+</KPIs>
+</ComponentInstance>
+<ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" enterprise="HDFC" >
+<KPIs>
+<KPI name="X" value="97"/>
+<KPI name="Time" value="2019-07-10 14:24:52"/>
+</KPIs>
+</ComponentInstance>
+<ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" enterprise="HDFC" >
+<KPIs>
+<KPI name="U" value="10"/>
+<KPI name="Time" value="2019-07-10 14:24:52"/>
+</KPIs>
+</ComponentInstance>
+<ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" enterprise="HDFC" >
+<KPIs>
+<KPI name="W" value="12"/>
+<KPI name="Time" value="2019-07-10 14:24:53"/>
+</KPIs>
+</ComponentInstance>
+<ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" enterprise="HDFC" >
+<KPIs>
+<KPI name="Y" value="38"/>
+<KPI name="Time" value="2019-07-10 14:24:53"/>
+</KPIs>
+</ComponentInstance>
+<ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" enterprise="HDFC" >
+<KPIs>
+<KPI name="DATA05" value="100"/>
+<KPI name="Time" value="2019-07-10 14:24:53"/>
+</KPIs>
+</ComponentInstance>
+<ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" enterprise="HDFC" >
+<KPIs>
+<KPI name="DATA06" value="100"/>
+<KPI name="Time" value="2019-07-10 14:24:53"/>
+</KPIs>
+</ComponentInstance>
+<ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" enterprise="HDFC" >
+<KPIs>
+<KPI name="DATA07" value="100"/>
+<KPI name="Time" value="2019-07-10 14:24:53"/>
+</KPIs>
+</ComponentInstance>
+</Data>
+</A1Request>
+</A1>
+07/10/2019 19:54:53 : INFO Trying to send data to appsone
+07/10/2019 19:54:53 : INFO Response Below:
+<A1 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="A1DCASchema.xsd"><A1Response version="1.0" id="cc227e53-69c1-4191-88ae-452b034d2a64" mode="MONITOR" ><Data><ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" ><Property value="null" result="SUCCESS" /></ComponentInstance><ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" ><Property value="null" result="SUCCESS" /></ComponentInstance><ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" ><Property value="null" result="SUCCESS" /></ComponentInstance><ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" ><Property value="null" result="SUCCESS" /></ComponentInstance><ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" ><Property value="null" result="SUCCESS" /></ComponentInstance><ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" ><Property value="null" result="SUCCESS" /></ComponentInstance><ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" ><Property value="null" result="SUCCESS" /></ComponentInstance><ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" ><Property value="null" result="SUCCESS" /></ComponentInstance><ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" ><Property value="null" result="SUCCESS" /></ComponentInstance><ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" ><Property value="null" result="SUCCESS" /></ComponentInstance><ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" ><Property value="null" result="SUCCESS" /></ComponentInstance><ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" ><Property value="null" result="SUCCESS" /></ComponentInstance><ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" ><Property value="null" result="SUCCESS" /></ComponentInstance><ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" ><Property value="null" result="SUCCESS" /></ComponentInstance><ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" ><Property value="null" result="SUCCESS" /></ComponentInstance><ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" ><Property value="null" result="SUCCESS" /></ComponentInstance><ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" ><Property value="null" result="SUCCESS" /></ComponentInstance><ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" ><Property value="null" result="SUCCESS" /></ComponentInstance><ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" ><Property value="null" result="SUCCESS" /></ComponentInstance><ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" ><Property value="null" result="SUCCESS" /></ComponentInstance></Data></A1Response></A1>
+07/10/2019 19:54:53 : INFO Processing finished
+07/10/2019 19:54:53 : INFO Purge days : 1
+07/10/2019 19:54:53 : INFO Clearing log files and folders older than 1 days
+07/10/2019 19:54:53 : INFO ---------------------Execution finished-------------------
+07/10/2019 20:24:50 : INFO -----------------------Execution started--------------------
+07/10/2019 20:24:50 : INFO ----Config.ps1 Processing started----
+07/10/2019 20:24:50 : INFO Reading variables from Config.ps1
+07/10/2019 20:24:50 : INFO Config.ps1 included
+07/10/2019 20:24:53 : INFO xml created as below:
+<A1 xsi:noNamespaceSchemaLocation="A1DCASchema.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<A1Request id="cc227e53-69c1-4191-88ae-452b034d2a64" version="1.0" mode="MONITOR">
+<Data>
+<ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" enterprise="HDFC" >
+<KPIs>
+<KPI name="C" value="48"/>
+<KPI name="Time" value="2019-07-10 14:54:53"/>
+</KPIs>
+</ComponentInstance>
+<ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" enterprise="HDFC" >
+<KPIs>
+<KPI name="D" value="1"/>
+<KPI name="Time" value="2019-07-10 14:54:53"/>
+</KPIs>
+</ComponentInstance>
+<ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" enterprise="HDFC" >
+<KPIs>
+<KPI name="E" value="6"/>
+<KPI name="Time" value="2019-07-10 14:54:53"/>
+</KPIs>
+</ComponentInstance>
+<ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" enterprise="HDFC" >
+<KPIs>
+<KPI name="F" value="31"/>
+<KPI name="Time" value="2019-07-10 14:54:53"/>
+</KPIs>
+</ComponentInstance>
+<ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" enterprise="HDFC" >
+<KPIs>
+<KPI name="V" value="44"/>
+<KPI name="Time" value="2019-07-10 14:54:53"/>
+</KPIs>
+</ComponentInstance>
+<ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" enterprise="HDFC" >
+<KPIs>
+<KPI name="S" value="85"/>
+<KPI name="Time" value="2019-07-10 14:54:53"/>
+</KPIs>
+</ComponentInstance>
+<ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" enterprise="HDFC" >
+<KPIs>
+<KPI name="ARCH_FG2_25L" value="100"/>
+<KPI name="Time" value="2019-07-10 14:54:53"/>
+</KPIs>
+</ComponentInstance>
+<ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" enterprise="HDFC" >
+<KPIs>
+<KPI name="T" value="93"/>
+<KPI name="Time" value="2019-07-10 14:54:53"/>
+</KPIs>
+</ComponentInstance>
+<ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" enterprise="HDFC" >
+<KPIs>
+<KPI name="Z" value="75"/>
+<KPI name="Time" value="2019-07-10 14:54:53"/>
+</KPIs>
+</ComponentInstance>
+<ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" enterprise="HDFC" >
+<KPIs>
+<KPI name="DATA04" value="18"/>
+<KPI name="Time" value="2019-07-10 14:54:53"/>
+</KPIs>
+</ComponentInstance>
+<ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" enterprise="HDFC" >
+<KPIs>
+<KPI name="DATA03" value="100"/>
+<KPI name="Time" value="2019-07-10 14:54:53"/>
+</KPIs>
+</ComponentInstance>
+<ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" enterprise="HDFC" >
+<KPIs>
+<KPI name="DATA02" value="96"/>
+<KPI name="Time" value="2019-07-10 14:54:53"/>
+</KPIs>
+</ComponentInstance>
+<ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" enterprise="HDFC" >
+<KPIs>
+<KPI name="DATA01" value="100"/>
+<KPI name="Time" value="2019-07-10 14:54:53"/>
+</KPIs>
+</ComponentInstance>
+<ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" enterprise="HDFC" >
+<KPIs>
+<KPI name="X" value="97"/>
+<KPI name="Time" value="2019-07-10 14:54:53"/>
+</KPIs>
+</ComponentInstance>
+<ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" enterprise="HDFC" >
+<KPIs>
+<KPI name="U" value="10"/>
+<KPI name="Time" value="2019-07-10 14:54:53"/>
+</KPIs>
+</ComponentInstance>
+<ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" enterprise="HDFC" >
+<KPIs>
+<KPI name="W" value="12"/>
+<KPI name="Time" value="2019-07-10 14:54:53"/>
+</KPIs>
+</ComponentInstance>
+<ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" enterprise="HDFC" >
+<KPIs>
+<KPI name="Y" value="38"/>
+<KPI name="Time" value="2019-07-10 14:54:53"/>
+</KPIs>
+</ComponentInstance>
+<ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" enterprise="HDFC" >
+<KPIs>
+<KPI name="DATA05" value="100"/>
+<KPI name="Time" value="2019-07-10 14:54:53"/>
+</KPIs>
+</ComponentInstance>
+<ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" enterprise="HDFC" >
+<KPIs>
+<KPI name="DATA06" value="100"/>
+<KPI name="Time" value="2019-07-10 14:54:53"/>
+</KPIs>
+</ComponentInstance>
+<ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" enterprise="HDFC" >
+<KPIs>
+<KPI name="DATA07" value="100"/>
+<KPI name="Time" value="2019-07-10 14:54:53"/>
+</KPIs>
+</ComponentInstance>
+</Data>
+</A1Request>
+</A1>
+07/10/2019 20:24:53 : INFO Trying to send data to appsone
+07/10/2019 20:24:54 : INFO Response Below:
+<A1 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="A1DCASchema.xsd"><A1Response version="1.0" id="cc227e53-69c1-4191-88ae-452b034d2a64" mode="MONITOR" ><Data><ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" ><Property value="null" result="SUCCESS" /></ComponentInstance><ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" ><Property value="null" result="SUCCESS" /></ComponentInstance><ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" ><Property value="null" result="SUCCESS" /></ComponentInstance><ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" ><Property value="null" result="SUCCESS" /></ComponentInstance><ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" ><Property value="null" result="SUCCESS" /></ComponentInstance><ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" ><Property value="null" result="SUCCESS" /></ComponentInstance><ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" ><Property value="null" result="SUCCESS" /></ComponentInstance><ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" ><Property value="null" result="SUCCESS" /></ComponentInstance><ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" ><Property value="null" result="SUCCESS" /></ComponentInstance><ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" ><Property value="null" result="SUCCESS" /></ComponentInstance><ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" ><Property value="null" result="SUCCESS" /></ComponentInstance><ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" ><Property value="null" result="SUCCESS" /></ComponentInstance><ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" ><Property value="null" result="SUCCESS" /></ComponentInstance><ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" ><Property value="null" result="SUCCESS" /></ComponentInstance><ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" ><Property value="null" result="SUCCESS" /></ComponentInstance><ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" ><Property value="null" result="SUCCESS" /></ComponentInstance><ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" ><Property value="null" result="SUCCESS" /></ComponentInstance><ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" ><Property value="null" result="SUCCESS" /></ComponentInstance><ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" ><Property value="null" result="SUCCESS" /></ComponentInstance><ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" ><Property value="null" result="SUCCESS" /></ComponentInstance></Data></A1Response></A1>
+07/10/2019 20:24:54 : INFO Processing finished
+07/10/2019 20:24:54 : INFO Purge days : 1
+07/10/2019 20:24:54 : INFO Clearing log files and folders older than 1 days
+07/10/2019 20:24:54 : INFO ---------------------Execution finished-------------------
+07/10/2019 20:54:50 : INFO -----------------------Execution started--------------------
+07/10/2019 20:54:50 : INFO ----Config.ps1 Processing started----
+07/10/2019 20:54:50 : INFO Reading variables from Config.ps1
+07/10/2019 20:54:50 : INFO Config.ps1 included
+07/10/2019 20:54:52 : INFO xml created as below:
+<A1 xsi:noNamespaceSchemaLocation="A1DCASchema.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<A1Request id="cc227e53-69c1-4191-88ae-452b034d2a64" version="1.0" mode="MONITOR">
+<Data>
+<ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" enterprise="HDFC" >
+<KPIs>
+<KPI name="C" value="47"/>
+<KPI name="Time" value="2019-07-10 15:24:52"/>
+</KPIs>
+</ComponentInstance>
+<ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" enterprise="HDFC" >
+<KPIs>
+<KPI name="D" value="1"/>
+<KPI name="Time" value="2019-07-10 15:24:52"/>
+</KPIs>
+</ComponentInstance>
+<ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" enterprise="HDFC" >
+<KPIs>
+<KPI name="E" value="6"/>
+<KPI name="Time" value="2019-07-10 15:24:52"/>
+</KPIs>
+</ComponentInstance>
+<ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" enterprise="HDFC" >
+<KPIs>
+<KPI name="F" value="31"/>
+<KPI name="Time" value="2019-07-10 15:24:52"/>
+</KPIs>
+</ComponentInstance>
+<ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" enterprise="HDFC" >
+<KPIs>
+<KPI name="V" value="44"/>
+<KPI name="Time" value="2019-07-10 15:24:52"/>
+</KPIs>
+</ComponentInstance>
+<ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" enterprise="HDFC" >
+<KPIs>
+<KPI name="S" value="85"/>
+<KPI name="Time" value="2019-07-10 15:24:52"/>
+</KPIs>
+</ComponentInstance>
+<ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" enterprise="HDFC" >
+<KPIs>
+<KPI name="ARCH_FG2_25L" value="100"/>
+<KPI name="Time" value="2019-07-10 15:24:52"/>
+</KPIs>
+</ComponentInstance>
+<ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" enterprise="HDFC" >
+<KPIs>
+<KPI name="T" value="93"/>
+<KPI name="Time" value="2019-07-10 15:24:52"/>
+</KPIs>
+</ComponentInstance>
+<ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" enterprise="HDFC" >
+<KPIs>
+<KPI name="Z" value="75"/>
+<KPI name="Time" value="2019-07-10 15:24:52"/>
+</KPIs>
+</ComponentInstance>
+<ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" enterprise="HDFC" >
+<KPIs>
+<KPI name="DATA04" value="18"/>
+<KPI name="Time" value="2019-07-10 15:24:52"/>
+</KPIs>
+</ComponentInstance>
+<ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" enterprise="HDFC" >
+<KPIs>
+<KPI name="DATA03" value="100"/>
+<KPI name="Time" value="2019-07-10 15:24:52"/>
+</KPIs>
+</ComponentInstance>
+<ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" enterprise="HDFC" >
+<KPIs>
+<KPI name="DATA02" value="96"/>
+<KPI name="Time" value="2019-07-10 15:24:52"/>
+</KPIs>
+</ComponentInstance>
+<ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" enterprise="HDFC" >
+<KPIs>
+<KPI name="DATA01" value="100"/>
+<KPI name="Time" value="2019-07-10 15:24:52"/>
+</KPIs>
+</ComponentInstance>
+<ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" enterprise="HDFC" >
+<KPIs>
+<KPI name="X" value="97"/>
+<KPI name="Time" value="2019-07-10 15:24:52"/>
+</KPIs>
+</ComponentInstance>
+<ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" enterprise="HDFC" >
+<KPIs>
+<KPI name="U" value="10"/>
+<KPI name="Time" value="2019-07-10 15:24:52"/>
+</KPIs>
+</ComponentInstance>
+<ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" enterprise="HDFC" >
+<KPIs>
+<KPI name="W" value="12"/>
+<KPI name="Time" value="2019-07-10 15:24:52"/>
+</KPIs>
+</ComponentInstance>
+<ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" enterprise="HDFC" >
+<KPIs>
+<KPI name="Y" value="38"/>
+<KPI name="Time" value="2019-07-10 15:24:52"/>
+</KPIs>
+</ComponentInstance>
+<ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" enterprise="HDFC" >
+<KPIs>
+<KPI name="DATA05" value="100"/>
+<KPI name="Time" value="2019-07-10 15:24:52"/>
+</KPIs>
+</ComponentInstance>
+<ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" enterprise="HDFC" >
+<KPIs>
+<KPI name="DATA06" value="100"/>
+<KPI name="Time" value="2019-07-10 15:24:52"/>
+</KPIs>
+</ComponentInstance>
+<ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" enterprise="HDFC" >
+<KPIs>
+<KPI name="DATA07" value="100"/>
+<KPI name="Time" value="2019-07-10 15:24:52"/>
+</KPIs>
+</ComponentInstance>
+</Data>
+</A1Request>
+</A1>
+07/10/2019 20:54:52 : INFO Trying to send data to appsone
+07/10/2019 20:54:53 : INFO Response Below:
+<A1 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="A1DCASchema.xsd"><A1Response version="1.0" id="cc227e53-69c1-4191-88ae-452b034d2a64" mode="MONITOR" ><Data><ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" ><Property value="null" result="SUCCESS" /></ComponentInstance><ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" ><Property value="null" result="SUCCESS" /></ComponentInstance><ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" ><Property value="null" result="SUCCESS" /></ComponentInstance><ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" ><Property value="null" result="SUCCESS" /></ComponentInstance><ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" ><Property value="null" result="SUCCESS" /></ComponentInstance><ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" ><Property value="null" result="SUCCESS" /></ComponentInstance><ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" ><Property value="null" result="SUCCESS" /></ComponentInstance><ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" ><Property value="null" result="SUCCESS" /></ComponentInstance><ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" ><Property value="null" result="SUCCESS" /></ComponentInstance><ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" ><Property value="null" result="SUCCESS" /></ComponentInstance><ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" ><Property value="null" result="SUCCESS" /></ComponentInstance><ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" ><Property value="null" result="SUCCESS" /></ComponentInstance><ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" ><Property value="null" result="SUCCESS" /></ComponentInstance><ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" ><Property value="null" result="SUCCESS" /></ComponentInstance><ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" ><Property value="null" result="SUCCESS" /></ComponentInstance><ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" ><Property value="null" result="SUCCESS" /></ComponentInstance><ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" ><Property value="null" result="SUCCESS" /></ComponentInstance><ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" ><Property value="null" result="SUCCESS" /></ComponentInstance><ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" ><Property value="null" result="SUCCESS" /></ComponentInstance><ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" ><Property value="null" result="SUCCESS" /></ComponentInstance></Data></A1Response></A1>
+07/10/2019 20:54:53 : INFO Processing finished
+07/10/2019 20:54:53 : INFO Purge days : 1
+07/10/2019 20:54:53 : INFO Clearing log files and folders older than 1 days
+07/10/2019 20:54:53 : INFO ---------------------Execution finished-------------------
+07/10/2019 21:24:50 : INFO -----------------------Execution started--------------------
+07/10/2019 21:24:50 : INFO ----Config.ps1 Processing started----
+07/10/2019 21:24:50 : INFO Reading variables from Config.ps1
+07/10/2019 21:24:50 : INFO Config.ps1 included
+07/10/2019 21:24:54 : INFO xml created as below:
+<A1 xsi:noNamespaceSchemaLocation="A1DCASchema.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<A1Request id="cc227e53-69c1-4191-88ae-452b034d2a64" version="1.0" mode="MONITOR">
+<Data>
+<ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" enterprise="HDFC" >
+<KPIs>
+<KPI name="C" value="48"/>
+<KPI name="Time" value="2019-07-10 15:54:54"/>
+</KPIs>
+</ComponentInstance>
+<ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" enterprise="HDFC" >
+<KPIs>
+<KPI name="D" value="1"/>
+<KPI name="Time" value="2019-07-10 15:54:54"/>
+</KPIs>
+</ComponentInstance>
+<ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" enterprise="HDFC" >
+<KPIs>
+<KPI name="E" value="6"/>
+<KPI name="Time" value="2019-07-10 15:54:54"/>
+</KPIs>
+</ComponentInstance>
+<ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" enterprise="HDFC" >
+<KPIs>
+<KPI name="F" value="31"/>
+<KPI name="Time" value="2019-07-10 15:54:54"/>
+</KPIs>
+</ComponentInstance>
+<ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" enterprise="HDFC" >
+<KPIs>
+<KPI name="V" value="44"/>
+<KPI name="Time" value="2019-07-10 15:54:54"/>
+</KPIs>
+</ComponentInstance>
+<ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" enterprise="HDFC" >
+<KPIs>
+<KPI name="S" value="85"/>
+<KPI name="Time" value="2019-07-10 15:54:54"/>
+</KPIs>
+</ComponentInstance>
+<ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" enterprise="HDFC" >
+<KPIs>
+<KPI name="ARCH_FG2_25L" value="100"/>
+<KPI name="Time" value="2019-07-10 15:54:54"/>
+</KPIs>
+</ComponentInstance>
+<ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" enterprise="HDFC" >
+<KPIs>
+<KPI name="T" value="93"/>
+<KPI name="Time" value="2019-07-10 15:54:54"/>
+</KPIs>
+</ComponentInstance>
+<ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" enterprise="HDFC" >
+<KPIs>
+<KPI name="Z" value="75"/>
+<KPI name="Time" value="2019-07-10 15:54:54"/>
+</KPIs>
+</ComponentInstance>
+<ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" enterprise="HDFC" >
+<KPIs>
+<KPI name="DATA04" value="18"/>
+<KPI name="Time" value="2019-07-10 15:54:54"/>
+</KPIs>
+</ComponentInstance>
+<ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" enterprise="HDFC" >
+<KPIs>
+<KPI name="DATA03" value="100"/>
+<KPI name="Time" value="2019-07-10 15:54:54"/>
+</KPIs>
+</ComponentInstance>
+<ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" enterprise="HDFC" >
+<KPIs>
+<KPI name="DATA02" value="96"/>
+<KPI name="Time" value="2019-07-10 15:54:54"/>
+</KPIs>
+</ComponentInstance>
+<ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" enterprise="HDFC" >
+<KPIs>
+<KPI name="DATA01" value="100"/>
+<KPI name="Time" value="2019-07-10 15:54:54"/>
+</KPIs>
+</ComponentInstance>
+<ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" enterprise="HDFC" >
+<KPIs>
+<KPI name="X" value="97"/>
+<KPI name="Time" value="2019-07-10 15:54:54"/>
+</KPIs>
+</ComponentInstance>
+<ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" enterprise="HDFC" >
+<KPIs>
+<KPI name="U" value="10"/>
+<KPI name="Time" value="2019-07-10 15:54:54"/>
+</KPIs>
+</ComponentInstance>
+<ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" enterprise="HDFC" >
+<KPIs>
+<KPI name="W" value="12"/>
+<KPI name="Time" value="2019-07-10 15:54:54"/>
+</KPIs>
+</ComponentInstance>
+<ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" enterprise="HDFC" >
+<KPIs>
+<KPI name="Y" value="38"/>
+<KPI name="Time" value="2019-07-10 15:54:54"/>
+</KPIs>
+</ComponentInstance>
+<ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" enterprise="HDFC" >
+<KPIs>
+<KPI name="DATA05" value="100"/>
+<KPI name="Time" value="2019-07-10 15:54:54"/>
+</KPIs>
+</ComponentInstance>
+<ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" enterprise="HDFC" >
+<KPIs>
+<KPI name="DATA06" value="100"/>
+<KPI name="Time" value="2019-07-10 15:54:54"/>
+</KPIs>
+</ComponentInstance>
+<ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" enterprise="HDFC" >
+<KPIs>
+<KPI name="DATA07" value="100"/>
+<KPI name="Time" value="2019-07-10 15:54:54"/>
+</KPIs>
+</ComponentInstance>
+</Data>
+</A1Request>
+</A1>
+07/10/2019 21:24:54 : INFO Trying to send data to appsone
+07/10/2019 21:24:55 : INFO Response Below:
+<A1 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="A1DCASchema.xsd"><A1Response version="1.0" id="cc227e53-69c1-4191-88ae-452b034d2a64" mode="MONITOR" ><Data><ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" ><Property value="null" result="SUCCESS" /></ComponentInstance><ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" ><Property value="null" result="SUCCESS" /></ComponentInstance><ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" ><Property value="null" result="SUCCESS" /></ComponentInstance><ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" ><Property value="null" result="SUCCESS" /></ComponentInstance><ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" ><Property value="null" result="SUCCESS" /></ComponentInstance><ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" ><Property value="null" result="SUCCESS" /></ComponentInstance><ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" ><Property value="null" result="SUCCESS" /></ComponentInstance><ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" ><Property value="null" result="SUCCESS" /></ComponentInstance><ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" ><Property value="null" result="SUCCESS" /></ComponentInstance><ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" ><Property value="null" result="SUCCESS" /></ComponentInstance><ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" ><Property value="null" result="SUCCESS" /></ComponentInstance><ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" ><Property value="null" result="SUCCESS" /></ComponentInstance><ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" ><Property value="null" result="SUCCESS" /></ComponentInstance><ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" ><Property value="null" result="SUCCESS" /></ComponentInstance><ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" ><Property value="null" result="SUCCESS" /></ComponentInstance><ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" ><Property value="null" result="SUCCESS" /></ComponentInstance><ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" ><Property value="null" result="SUCCESS" /></ComponentInstance><ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" ><Property value="null" result="SUCCESS" /></ComponentInstance><ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" ><Property value="null" result="SUCCESS" /></ComponentInstance><ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" ><Property value="null" result="SUCCESS" /></ComponentInstance></Data></A1Response></A1>
+07/10/2019 21:24:55 : INFO Processing finished
+07/10/2019 21:24:55 : INFO Purge days : 1
+07/10/2019 21:24:55 : INFO Clearing log files and folders older than 1 days
+07/10/2019 21:24:55 : INFO ---------------------Execution finished-------------------
+07/10/2019 21:54:50 : INFO -----------------------Execution started--------------------
+07/10/2019 21:54:50 : INFO ----Config.ps1 Processing started----
+07/10/2019 21:54:50 : INFO Reading variables from Config.ps1
+07/10/2019 21:54:50 : INFO Config.ps1 included
+07/10/2019 21:54:54 : INFO xml created as below:
+<A1 xsi:noNamespaceSchemaLocation="A1DCASchema.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<A1Request id="cc227e53-69c1-4191-88ae-452b034d2a64" version="1.0" mode="MONITOR">
+<Data>
+<ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" enterprise="HDFC" >
+<KPIs>
+<KPI name="C" value="48"/>
+<KPI name="Time" value="2019-07-10 16:24:54"/>
+</KPIs>
+</ComponentInstance>
+<ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" enterprise="HDFC" >
+<KPIs>
+<KPI name="D" value="1"/>
+<KPI name="Time" value="2019-07-10 16:24:54"/>
+</KPIs>
+</ComponentInstance>
+<ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" enterprise="HDFC" >
+<KPIs>
+<KPI name="E" value="6"/>
+<KPI name="Time" value="2019-07-10 16:24:54"/>
+</KPIs>
+</ComponentInstance>
+<ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" enterprise="HDFC" >
+<KPIs>
+<KPI name="F" value="31"/>
+<KPI name="Time" value="2019-07-10 16:24:54"/>
+</KPIs>
+</ComponentInstance>
+<ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" enterprise="HDFC" >
+<KPIs>
+<KPI name="V" value="44"/>
+<KPI name="Time" value="2019-07-10 16:24:54"/>
+</KPIs>
+</ComponentInstance>
+<ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" enterprise="HDFC" >
+<KPIs>
+<KPI name="S" value="85"/>
+<KPI name="Time" value="2019-07-10 16:24:54"/>
+</KPIs>
+</ComponentInstance>
+<ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" enterprise="HDFC" >
+<KPIs>
+<KPI name="ARCH_FG2_25L" value="100"/>
+<KPI name="Time" value="2019-07-10 16:24:54"/>
+</KPIs>
+</ComponentInstance>
+<ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" enterprise="HDFC" >
+<KPIs>
+<KPI name="T" value="93"/>
+<KPI name="Time" value="2019-07-10 16:24:54"/>
+</KPIs>
+</ComponentInstance>
+<ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" enterprise="HDFC" >
+<KPIs>
+<KPI name="Z" value="75"/>
+<KPI name="Time" value="2019-07-10 16:24:54"/>
+</KPIs>
+</ComponentInstance>
+<ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" enterprise="HDFC" >
+<KPIs>
+<KPI name="DATA04" value="18"/>
+<KPI name="Time" value="2019-07-10 16:24:54"/>
+</KPIs>
+</ComponentInstance>
+<ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" enterprise="HDFC" >
+<KPIs>
+<KPI name="DATA03" value="100"/>
+<KPI name="Time" value="2019-07-10 16:24:54"/>
+</KPIs>
+</ComponentInstance>
+<ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" enterprise="HDFC" >
+<KPIs>
+<KPI name="DATA02" value="96"/>
+<KPI name="Time" value="2019-07-10 16:24:54"/>
+</KPIs>
+</ComponentInstance>
+<ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" enterprise="HDFC" >
+<KPIs>
+<KPI name="DATA01" value="100"/>
+<KPI name="Time" value="2019-07-10 16:24:54"/>
+</KPIs>
+</ComponentInstance>
+<ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" enterprise="HDFC" >
+<KPIs>
+<KPI name="X" value="97"/>
+<KPI name="Time" value="2019-07-10 16:24:54"/>
+</KPIs>
+</ComponentInstance>
+<ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" enterprise="HDFC" >
+<KPIs>
+<KPI name="U" value="10"/>
+<KPI name="Time" value="2019-07-10 16:24:54"/>
+</KPIs>
+</ComponentInstance>
+<ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" enterprise="HDFC" >
+<KPIs>
+<KPI name="W" value="12"/>
+<KPI name="Time" value="2019-07-10 16:24:54"/>
+</KPIs>
+</ComponentInstance>
+<ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" enterprise="HDFC" >
+<KPIs>
+<KPI name="Y" value="38"/>
+<KPI name="Time" value="2019-07-10 16:24:54"/>
+</KPIs>
+</ComponentInstance>
+<ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" enterprise="HDFC" >
+<KPIs>
+<KPI name="DATA05" value="100"/>
+<KPI name="Time" value="2019-07-10 16:24:54"/>
+</KPIs>
+</ComponentInstance>
+<ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" enterprise="HDFC" >
+<KPIs>
+<KPI name="DATA06" value="100"/>
+<KPI name="Time" value="2019-07-10 16:24:54"/>
+</KPIs>
+</ComponentInstance>
+<ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" enterprise="HDFC" >
+<KPIs>
+<KPI name="DATA07" value="100"/>
+<KPI name="Time" value="2019-07-10 16:24:54"/>
+</KPIs>
+</ComponentInstance>
+</Data>
+</A1Request>
+</A1>
+07/10/2019 21:54:54 : INFO Trying to send data to appsone
+07/10/2019 21:54:55 : INFO Response Below:
+<A1 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="A1DCASchema.xsd"><A1Response version="1.0" id="cc227e53-69c1-4191-88ae-452b034d2a64" mode="MONITOR" ><Data><ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" ><Property value="null" result="SUCCESS" /></ComponentInstance><ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" ><Property value="null" result="SUCCESS" /></ComponentInstance><ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" ><Property value="null" result="SUCCESS" /></ComponentInstance><ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" ><Property value="null" result="SUCCESS" /></ComponentInstance><ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" ><Property value="null" result="SUCCESS" /></ComponentInstance><ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" ><Property value="null" result="SUCCESS" /></ComponentInstance><ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" ><Property value="null" result="SUCCESS" /></ComponentInstance><ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" ><Property value="null" result="SUCCESS" /></ComponentInstance><ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" ><Property value="null" result="SUCCESS" /></ComponentInstance><ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" ><Property value="null" result="SUCCESS" /></ComponentInstance><ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" ><Property value="null" result="SUCCESS" /></ComponentInstance><ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" ><Property value="null" result="SUCCESS" /></ComponentInstance><ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" ><Property value="null" result="SUCCESS" /></ComponentInstance><ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" ><Property value="null" result="SUCCESS" /></ComponentInstance><ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" ><Property value="null" result="SUCCESS" /></ComponentInstance><ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" ><Property value="null" result="SUCCESS" /></ComponentInstance><ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" ><Property value="null" result="SUCCESS" /></ComponentInstance><ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" ><Property value="null" result="SUCCESS" /></ComponentInstance><ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" ><Property value="null" result="SUCCESS" /></ComponentInstance><ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" ><Property value="null" result="SUCCESS" /></ComponentInstance></Data></A1Response></A1>
+07/10/2019 21:54:55 : INFO Processing finished
+07/10/2019 21:54:55 : INFO Purge days : 1
+07/10/2019 21:54:55 : INFO Clearing log files and folders older than 1 days
+07/10/2019 21:54:55 : INFO ---------------------Execution finished-------------------
+07/10/2019 22:24:50 : INFO -----------------------Execution started--------------------
+07/10/2019 22:24:50 : INFO ----Config.ps1 Processing started----
+07/10/2019 22:24:50 : INFO Reading variables from Config.ps1
+07/10/2019 22:24:50 : INFO Config.ps1 included
+07/10/2019 22:24:53 : INFO xml created as below:
+<A1 xsi:noNamespaceSchemaLocation="A1DCASchema.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<A1Request id="cc227e53-69c1-4191-88ae-452b034d2a64" version="1.0" mode="MONITOR">
+<Data>
+<ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" enterprise="HDFC" >
+<KPIs>
+<KPI name="C" value="48"/>
+<KPI name="Time" value="2019-07-10 16:54:53"/>
+</KPIs>
+</ComponentInstance>
+<ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" enterprise="HDFC" >
+<KPIs>
+<KPI name="D" value="1"/>
+<KPI name="Time" value="2019-07-10 16:54:53"/>
+</KPIs>
+</ComponentInstance>
+<ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" enterprise="HDFC" >
+<KPIs>
+<KPI name="E" value="6"/>
+<KPI name="Time" value="2019-07-10 16:54:53"/>
+</KPIs>
+</ComponentInstance>
+<ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" enterprise="HDFC" >
+<KPIs>
+<KPI name="F" value="31"/>
+<KPI name="Time" value="2019-07-10 16:54:53"/>
+</KPIs>
+</ComponentInstance>
+<ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" enterprise="HDFC" >
+<KPIs>
+<KPI name="V" value="44"/>
+<KPI name="Time" value="2019-07-10 16:54:53"/>
+</KPIs>
+</ComponentInstance>
+<ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" enterprise="HDFC" >
+<KPIs>
+<KPI name="S" value="85"/>
+<KPI name="Time" value="2019-07-10 16:54:53"/>
+</KPIs>
+</ComponentInstance>
+<ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" enterprise="HDFC" >
+<KPIs>
+<KPI name="ARCH_FG2_25L" value="100"/>
+<KPI name="Time" value="2019-07-10 16:54:53"/>
+</KPIs>
+</ComponentInstance>
+<ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" enterprise="HDFC" >
+<KPIs>
+<KPI name="T" value="93"/>
+<KPI name="Time" value="2019-07-10 16:54:53"/>
+</KPIs>
+</ComponentInstance>
+<ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" enterprise="HDFC" >
+<KPIs>
+<KPI name="Z" value="75"/>
+<KPI name="Time" value="2019-07-10 16:54:53"/>
+</KPIs>
+</ComponentInstance>
+<ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" enterprise="HDFC" >
+<KPIs>
+<KPI name="DATA04" value="18"/>
+<KPI name="Time" value="2019-07-10 16:54:53"/>
+</KPIs>
+</ComponentInstance>
+<ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" enterprise="HDFC" >
+<KPIs>
+<KPI name="DATA03" value="100"/>
+<KPI name="Time" value="2019-07-10 16:54:53"/>
+</KPIs>
+</ComponentInstance>
+<ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" enterprise="HDFC" >
+<KPIs>
+<KPI name="DATA02" value="96"/>
+<KPI name="Time" value="2019-07-10 16:54:53"/>
+</KPIs>
+</ComponentInstance>
+<ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" enterprise="HDFC" >
+<KPIs>
+<KPI name="DATA01" value="100"/>
+<KPI name="Time" value="2019-07-10 16:54:53"/>
+</KPIs>
+</ComponentInstance>
+<ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" enterprise="HDFC" >
+<KPIs>
+<KPI name="X" value="97"/>
+<KPI name="Time" value="2019-07-10 16:54:53"/>
+</KPIs>
+</ComponentInstance>
+<ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" enterprise="HDFC" >
+<KPIs>
+<KPI name="U" value="10"/>
+<KPI name="Time" value="2019-07-10 16:54:53"/>
+</KPIs>
+</ComponentInstance>
+<ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" enterprise="HDFC" >
+<KPIs>
+<KPI name="W" value="12"/>
+<KPI name="Time" value="2019-07-10 16:54:53"/>
+</KPIs>
+</ComponentInstance>
+<ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" enterprise="HDFC" >
+<KPIs>
+<KPI name="Y" value="38"/>
+<KPI name="Time" value="2019-07-10 16:54:53"/>
+</KPIs>
+</ComponentInstance>
+<ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" enterprise="HDFC" >
+<KPIs>
+<KPI name="DATA05" value="100"/>
+<KPI name="Time" value="2019-07-10 16:54:53"/>
+</KPIs>
+</ComponentInstance>
+<ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" enterprise="HDFC" >
+<KPIs>
+<KPI name="DATA06" value="100"/>
+<KPI name="Time" value="2019-07-10 16:54:53"/>
+</KPIs>
+</ComponentInstance>
+<ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" enterprise="HDFC" >
+<KPIs>
+<KPI name="DATA07" value="100"/>
+<KPI name="Time" value="2019-07-10 16:54:53"/>
+</KPIs>
+</ComponentInstance>
+</Data>
+</A1Request>
+</A1>
+07/10/2019 22:24:53 : INFO Trying to send data to appsone
+07/10/2019 22:24:54 : INFO Response Below:
+<A1 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="A1DCASchema.xsd"><A1Response version="1.0" id="cc227e53-69c1-4191-88ae-452b034d2a64" mode="MONITOR" ><Data><ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" ><Property value="null" result="SUCCESS" /></ComponentInstance><ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" ><Property value="null" result="SUCCESS" /></ComponentInstance><ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" ><Property value="null" result="SUCCESS" /></ComponentInstance><ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" ><Property value="null" result="SUCCESS" /></ComponentInstance><ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" ><Property value="null" result="SUCCESS" /></ComponentInstance><ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" ><Property value="null" result="SUCCESS" /></ComponentInstance><ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" ><Property value="null" result="SUCCESS" /></ComponentInstance><ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" ><Property value="null" result="SUCCESS" /></ComponentInstance><ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" ><Property value="null" result="SUCCESS" /></ComponentInstance><ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" ><Property value="null" result="SUCCESS" /></ComponentInstance><ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" ><Property value="null" result="SUCCESS" /></ComponentInstance><ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" ><Property value="null" result="SUCCESS" /></ComponentInstance><ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" ><Property value="null" result="SUCCESS" /></ComponentInstance><ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" ><Property value="null" result="SUCCESS" /></ComponentInstance><ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" ><Property value="null" result="SUCCESS" /></ComponentInstance><ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" ><Property value="null" result="SUCCESS" /></ComponentInstance><ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" ><Property value="null" result="SUCCESS" /></ComponentInstance><ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" ><Property value="null" result="SUCCESS" /></ComponentInstance><ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" ><Property value="null" result="SUCCESS" /></ComponentInstance><ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" ><Property value="null" result="SUCCESS" /></ComponentInstance></Data></A1Response></A1>
+07/10/2019 22:24:54 : INFO Processing finished
+07/10/2019 22:24:54 : INFO Purge days : 1
+07/10/2019 22:24:54 : INFO Clearing log files and folders older than 1 days
+07/10/2019 22:24:54 : INFO ---------------------Execution finished-------------------
+07/10/2019 22:54:51 : INFO -----------------------Execution started--------------------
+07/10/2019 22:54:51 : INFO ----Config.ps1 Processing started----
+07/10/2019 22:54:51 : INFO Reading variables from Config.ps1
+07/10/2019 22:54:51 : INFO Config.ps1 included
+07/10/2019 22:54:54 : INFO xml created as below:
+<A1 xsi:noNamespaceSchemaLocation="A1DCASchema.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<A1Request id="cc227e53-69c1-4191-88ae-452b034d2a64" version="1.0" mode="MONITOR">
+<Data>
+<ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" enterprise="HDFC" >
+<KPIs>
+<KPI name="C" value="48"/>
+<KPI name="Time" value="2019-07-10 17:24:54"/>
+</KPIs>
+</ComponentInstance>
+<ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" enterprise="HDFC" >
+<KPIs>
+<KPI name="D" value="1"/>
+<KPI name="Time" value="2019-07-10 17:24:54"/>
+</KPIs>
+</ComponentInstance>
+<ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" enterprise="HDFC" >
+<KPIs>
+<KPI name="E" value="6"/>
+<KPI name="Time" value="2019-07-10 17:24:54"/>
+</KPIs>
+</ComponentInstance>
+<ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" enterprise="HDFC" >
+<KPIs>
+<KPI name="F" value="31"/>
+<KPI name="Time" value="2019-07-10 17:24:54"/>
+</KPIs>
+</ComponentInstance>
+<ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" enterprise="HDFC" >
+<KPIs>
+<KPI name="V" value="44"/>
+<KPI name="Time" value="2019-07-10 17:24:54"/>
+</KPIs>
+</ComponentInstance>
+<ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" enterprise="HDFC" >
+<KPIs>
+<KPI name="S" value="85"/>
+<KPI name="Time" value="2019-07-10 17:24:54"/>
+</KPIs>
+</ComponentInstance>
+<ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" enterprise="HDFC" >
+<KPIs>
+<KPI name="ARCH_FG2_25L" value="100"/>
+<KPI name="Time" value="2019-07-10 17:24:54"/>
+</KPIs>
+</ComponentInstance>
+<ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" enterprise="HDFC" >
+<KPIs>
+<KPI name="T" value="93"/>
+<KPI name="Time" value="2019-07-10 17:24:54"/>
+</KPIs>
+</ComponentInstance>
+<ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" enterprise="HDFC" >
+<KPIs>
+<KPI name="Z" value="75"/>
+<KPI name="Time" value="2019-07-10 17:24:54"/>
+</KPIs>
+</ComponentInstance>
+<ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" enterprise="HDFC" >
+<KPIs>
+<KPI name="DATA04" value="18"/>
+<KPI name="Time" value="2019-07-10 17:24:54"/>
+</KPIs>
+</ComponentInstance>
+<ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" enterprise="HDFC" >
+<KPIs>
+<KPI name="DATA03" value="100"/>
+<KPI name="Time" value="2019-07-10 17:24:54"/>
+</KPIs>
+</ComponentInstance>
+<ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" enterprise="HDFC" >
+<KPIs>
+<KPI name="DATA02" value="96"/>
+<KPI name="Time" value="2019-07-10 17:24:54"/>
+</KPIs>
+</ComponentInstance>
+<ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" enterprise="HDFC" >
+<KPIs>
+<KPI name="DATA01" value="100"/>
+<KPI name="Time" value="2019-07-10 17:24:54"/>
+</KPIs>
+</ComponentInstance>
+<ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" enterprise="HDFC" >
+<KPIs>
+<KPI name="X" value="97"/>
+<KPI name="Time" value="2019-07-10 17:24:54"/>
+</KPIs>
+</ComponentInstance>
+<ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" enterprise="HDFC" >
+<KPIs>
+<KPI name="U" value="10"/>
+<KPI name="Time" value="2019-07-10 17:24:54"/>
+</KPIs>
+</ComponentInstance>
+<ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" enterprise="HDFC" >
+<KPIs>
+<KPI name="W" value="12"/>
+<KPI name="Time" value="2019-07-10 17:24:54"/>
+</KPIs>
+</ComponentInstance>
+<ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" enterprise="HDFC" >
+<KPIs>
+<KPI name="Y" value="38"/>
+<KPI name="Time" value="2019-07-10 17:24:54"/>
+</KPIs>
+</ComponentInstance>
+<ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" enterprise="HDFC" >
+<KPIs>
+<KPI name="DATA05" value="100"/>
+<KPI name="Time" value="2019-07-10 17:24:54"/>
+</KPIs>
+</ComponentInstance>
+<ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" enterprise="HDFC" >
+<KPIs>
+<KPI name="DATA06" value="100"/>
+<KPI name="Time" value="2019-07-10 17:24:54"/>
+</KPIs>
+</ComponentInstance>
+<ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" enterprise="HDFC" >
+<KPIs>
+<KPI name="DATA07" value="100"/>
+<KPI name="Time" value="2019-07-10 17:24:54"/>
+</KPIs>
+</ComponentInstance>
+</Data>
+</A1Request>
+</A1>
+07/10/2019 22:54:54 : INFO Trying to send data to appsone
+07/10/2019 22:54:55 : INFO Response Below:
+<A1 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="A1DCASchema.xsd"><A1Response version="1.0" id="cc227e53-69c1-4191-88ae-452b034d2a64" mode="MONITOR" ><Data><ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" ><Property value="null" result="SUCCESS" /></ComponentInstance><ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" ><Property value="null" result="SUCCESS" /></ComponentInstance><ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" ><Property value="null" result="SUCCESS" /></ComponentInstance><ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" ><Property value="null" result="SUCCESS" /></ComponentInstance><ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" ><Property value="null" result="SUCCESS" /></ComponentInstance><ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" ><Property value="null" result="SUCCESS" /></ComponentInstance><ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" ><Property value="null" result="SUCCESS" /></ComponentInstance><ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" ><Property value="null" result="SUCCESS" /></ComponentInstance><ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" ><Property value="null" result="SUCCESS" /></ComponentInstance><ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" ><Property value="null" result="SUCCESS" /></ComponentInstance><ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" ><Property value="null" result="SUCCESS" /></ComponentInstance><ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" ><Property value="null" result="SUCCESS" /></ComponentInstance><ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" ><Property value="null" result="SUCCESS" /></ComponentInstance><ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" ><Property value="null" result="SUCCESS" /></ComponentInstance><ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" ><Property value="null" result="SUCCESS" /></ComponentInstance><ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" ><Property value="null" result="SUCCESS" /></ComponentInstance><ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" ><Property value="null" result="SUCCESS" /></ComponentInstance><ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" ><Property value="null" result="SUCCESS" /></ComponentInstance><ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" ><Property value="null" result="SUCCESS" /></ComponentInstance><ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" ><Property value="null" result="SUCCESS" /></ComponentInstance></Data></A1Response></A1>
+07/10/2019 22:54:55 : INFO Processing finished
+07/10/2019 22:54:55 : INFO Purge days : 1
+07/10/2019 22:54:55 : INFO Clearing log files and folders older than 1 days
+07/10/2019 22:54:55 : INFO ---------------------Execution finished-------------------
+07/10/2019 23:24:50 : INFO -----------------------Execution started--------------------
+07/10/2019 23:24:50 : INFO ----Config.ps1 Processing started----
+07/10/2019 23:24:50 : INFO Reading variables from Config.ps1
+07/10/2019 23:24:50 : INFO Config.ps1 included
+07/10/2019 23:24:53 : INFO xml created as below:
+<A1 xsi:noNamespaceSchemaLocation="A1DCASchema.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<A1Request id="cc227e53-69c1-4191-88ae-452b034d2a64" version="1.0" mode="MONITOR">
+<Data>
+<ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" enterprise="HDFC" >
+<KPIs>
+<KPI name="C" value="48"/>
+<KPI name="Time" value="2019-07-10 17:54:53"/>
+</KPIs>
+</ComponentInstance>
+<ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" enterprise="HDFC" >
+<KPIs>
+<KPI name="D" value="1"/>
+<KPI name="Time" value="2019-07-10 17:54:53"/>
+</KPIs>
+</ComponentInstance>
+<ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" enterprise="HDFC" >
+<KPIs>
+<KPI name="E" value="6"/>
+<KPI name="Time" value="2019-07-10 17:54:53"/>
+</KPIs>
+</ComponentInstance>
+<ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" enterprise="HDFC" >
+<KPIs>
+<KPI name="F" value="31"/>
+<KPI name="Time" value="2019-07-10 17:54:53"/>
+</KPIs>
+</ComponentInstance>
+<ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" enterprise="HDFC" >
+<KPIs>
+<KPI name="V" value="44"/>
+<KPI name="Time" value="2019-07-10 17:54:53"/>
+</KPIs>
+</ComponentInstance>
+<ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" enterprise="HDFC" >
+<KPIs>
+<KPI name="S" value="85"/>
+<KPI name="Time" value="2019-07-10 17:54:53"/>
+</KPIs>
+</ComponentInstance>
+<ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" enterprise="HDFC" >
+<KPIs>
+<KPI name="ARCH_FG2_25L" value="100"/>
+<KPI name="Time" value="2019-07-10 17:54:53"/>
+</KPIs>
+</ComponentInstance>
+<ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" enterprise="HDFC" >
+<KPIs>
+<KPI name="T" value="93"/>
+<KPI name="Time" value="2019-07-10 17:54:53"/>
+</KPIs>
+</ComponentInstance>
+<ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" enterprise="HDFC" >
+<KPIs>
+<KPI name="Z" value="75"/>
+<KPI name="Time" value="2019-07-10 17:54:53"/>
+</KPIs>
+</ComponentInstance>
+<ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" enterprise="HDFC" >
+<KPIs>
+<KPI name="DATA04" value="18"/>
+<KPI name="Time" value="2019-07-10 17:54:53"/>
+</KPIs>
+</ComponentInstance>
+<ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" enterprise="HDFC" >
+<KPIs>
+<KPI name="DATA03" value="100"/>
+<KPI name="Time" value="2019-07-10 17:54:53"/>
+</KPIs>
+</ComponentInstance>
+<ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" enterprise="HDFC" >
+<KPIs>
+<KPI name="DATA02" value="96"/>
+<KPI name="Time" value="2019-07-10 17:54:53"/>
+</KPIs>
+</ComponentInstance>
+<ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" enterprise="HDFC" >
+<KPIs>
+<KPI name="DATA01" value="100"/>
+<KPI name="Time" value="2019-07-10 17:54:53"/>
+</KPIs>
+</ComponentInstance>
+<ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" enterprise="HDFC" >
+<KPIs>
+<KPI name="X" value="97"/>
+<KPI name="Time" value="2019-07-10 17:54:53"/>
+</KPIs>
+</ComponentInstance>
+<ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" enterprise="HDFC" >
+<KPIs>
+<KPI name="U" value="10"/>
+<KPI name="Time" value="2019-07-10 17:54:53"/>
+</KPIs>
+</ComponentInstance>
+<ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" enterprise="HDFC" >
+<KPIs>
+<KPI name="W" value="12"/>
+<KPI name="Time" value="2019-07-10 17:54:53"/>
+</KPIs>
+</ComponentInstance>
+<ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" enterprise="HDFC" >
+<KPIs>
+<KPI name="Y" value="38"/>
+<KPI name="Time" value="2019-07-10 17:54:53"/>
+</KPIs>
+</ComponentInstance>
+<ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" enterprise="HDFC" >
+<KPIs>
+<KPI name="DATA05" value="100"/>
+<KPI name="Time" value="2019-07-10 17:54:53"/>
+</KPIs>
+</ComponentInstance>
+<ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" enterprise="HDFC" >
+<KPIs>
+<KPI name="DATA06" value="100"/>
+<KPI name="Time" value="2019-07-10 17:54:53"/>
+</KPIs>
+</ComponentInstance>
+<ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" enterprise="HDFC" >
+<KPIs>
+<KPI name="DATA07" value="100"/>
+<KPI name="Time" value="2019-07-10 17:54:53"/>
+</KPIs>
+</ComponentInstance>
+</Data>
+</A1Request>
+</A1>
+07/10/2019 23:24:53 : INFO Trying to send data to appsone
+07/10/2019 23:24:54 : INFO Response Below:
+<A1 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="A1DCASchema.xsd"><A1Response version="1.0" id="cc227e53-69c1-4191-88ae-452b034d2a64" mode="MONITOR" ><Data><ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" ><Property value="null" result="SUCCESS" /></ComponentInstance><ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" ><Property value="null" result="SUCCESS" /></ComponentInstance><ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" ><Property value="null" result="SUCCESS" /></ComponentInstance><ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" ><Property value="null" result="SUCCESS" /></ComponentInstance><ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" ><Property value="null" result="SUCCESS" /></ComponentInstance><ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" ><Property value="null" result="SUCCESS" /></ComponentInstance><ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" ><Property value="null" result="SUCCESS" /></ComponentInstance><ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" ><Property value="null" result="SUCCESS" /></ComponentInstance><ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" ><Property value="null" result="SUCCESS" /></ComponentInstance><ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" ><Property value="null" result="SUCCESS" /></ComponentInstance><ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" ><Property value="null" result="SUCCESS" /></ComponentInstance><ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" ><Property value="null" result="SUCCESS" /></ComponentInstance><ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" ><Property value="null" result="SUCCESS" /></ComponentInstance><ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" ><Property value="null" result="SUCCESS" /></ComponentInstance><ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" ><Property value="null" result="SUCCESS" /></ComponentInstance><ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" ><Property value="null" result="SUCCESS" /></ComponentInstance><ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" ><Property value="null" result="SUCCESS" /></ComponentInstance><ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" ><Property value="null" result="SUCCESS" /></ComponentInstance><ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" ><Property value="null" result="SUCCESS" /></ComponentInstance><ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" ><Property value="null" result="SUCCESS" /></ComponentInstance></Data></A1Response></A1>
+07/10/2019 23:24:54 : INFO Processing finished
+07/10/2019 23:24:54 : INFO Purge days : 1
+07/10/2019 23:24:54 : INFO Clearing log files and folders older than 1 days
+07/10/2019 23:24:54 : INFO ---------------------Execution finished-------------------
+07/10/2019 23:54:50 : INFO -----------------------Execution started--------------------
+07/10/2019 23:54:50 : INFO ----Config.ps1 Processing started----
+07/10/2019 23:54:50 : INFO Reading variables from Config.ps1
+07/10/2019 23:54:50 : INFO Config.ps1 included
+07/10/2019 23:54:53 : INFO xml created as below:
+<A1 xsi:noNamespaceSchemaLocation="A1DCASchema.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<A1Request id="cc227e53-69c1-4191-88ae-452b034d2a64" version="1.0" mode="MONITOR">
+<Data>
+<ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" enterprise="HDFC" >
+<KPIs>
+<KPI name="C" value="48"/>
+<KPI name="Time" value="2019-07-10 18:24:53"/>
+</KPIs>
+</ComponentInstance>
+<ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" enterprise="HDFC" >
+<KPIs>
+<KPI name="D" value="1"/>
+<KPI name="Time" value="2019-07-10 18:24:53"/>
+</KPIs>
+</ComponentInstance>
+<ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" enterprise="HDFC" >
+<KPIs>
+<KPI name="E" value="6"/>
+<KPI name="Time" value="2019-07-10 18:24:53"/>
+</KPIs>
+</ComponentInstance>
+<ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" enterprise="HDFC" >
+<KPIs>
+<KPI name="F" value="31"/>
+<KPI name="Time" value="2019-07-10 18:24:53"/>
+</KPIs>
+</ComponentInstance>
+<ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" enterprise="HDFC" >
+<KPIs>
+<KPI name="V" value="44"/>
+<KPI name="Time" value="2019-07-10 18:24:53"/>
+</KPIs>
+</ComponentInstance>
+<ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" enterprise="HDFC" >
+<KPIs>
+<KPI name="S" value="85"/>
+<KPI name="Time" value="2019-07-10 18:24:53"/>
+</KPIs>
+</ComponentInstance>
+<ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" enterprise="HDFC" >
+<KPIs>
+<KPI name="ARCH_FG2_25L" value="100"/>
+<KPI name="Time" value="2019-07-10 18:24:53"/>
+</KPIs>
+</ComponentInstance>
+<ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" enterprise="HDFC" >
+<KPIs>
+<KPI name="T" value="93"/>
+<KPI name="Time" value="2019-07-10 18:24:53"/>
+</KPIs>
+</ComponentInstance>
+<ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" enterprise="HDFC" >
+<KPIs>
+<KPI name="Z" value="75"/>
+<KPI name="Time" value="2019-07-10 18:24:53"/>
+</KPIs>
+</ComponentInstance>
+<ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" enterprise="HDFC" >
+<KPIs>
+<KPI name="DATA04" value="18"/>
+<KPI name="Time" value="2019-07-10 18:24:53"/>
+</KPIs>
+</ComponentInstance>
+<ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" enterprise="HDFC" >
+<KPIs>
+<KPI name="DATA03" value="100"/>
+<KPI name="Time" value="2019-07-10 18:24:53"/>
+</KPIs>
+</ComponentInstance>
+<ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" enterprise="HDFC" >
+<KPIs>
+<KPI name="DATA02" value="96"/>
+<KPI name="Time" value="2019-07-10 18:24:53"/>
+</KPIs>
+</ComponentInstance>
+<ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" enterprise="HDFC" >
+<KPIs>
+<KPI name="DATA01" value="100"/>
+<KPI name="Time" value="2019-07-10 18:24:53"/>
+</KPIs>
+</ComponentInstance>
+<ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" enterprise="HDFC" >
+<KPIs>
+<KPI name="X" value="97"/>
+<KPI name="Time" value="2019-07-10 18:24:53"/>
+</KPIs>
+</ComponentInstance>
+<ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" enterprise="HDFC" >
+<KPIs>
+<KPI name="U" value="10"/>
+<KPI name="Time" value="2019-07-10 18:24:53"/>
+</KPIs>
+</ComponentInstance>
+<ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" enterprise="HDFC" >
+<KPIs>
+<KPI name="W" value="12"/>
+<KPI name="Time" value="2019-07-10 18:24:53"/>
+</KPIs>
+</ComponentInstance>
+<ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" enterprise="HDFC" >
+<KPIs>
+<KPI name="Y" value="38"/>
+<KPI name="Time" value="2019-07-10 18:24:53"/>
+</KPIs>
+</ComponentInstance>
+<ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" enterprise="HDFC" >
+<KPIs>
+<KPI name="DATA05" value="100"/>
+<KPI name="Time" value="2019-07-10 18:24:53"/>
+</KPIs>
+</ComponentInstance>
+<ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" enterprise="HDFC" >
+<KPIs>
+<KPI name="DATA06" value="100"/>
+<KPI name="Time" value="2019-07-10 18:24:53"/>
+</KPIs>
+</ComponentInstance>
+<ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" enterprise="HDFC" >
+<KPIs>
+<KPI name="DATA07" value="100"/>
+<KPI name="Time" value="2019-07-10 18:24:53"/>
+</KPIs>
+</ComponentInstance>
+</Data>
+</A1Request>
+</A1>
+07/10/2019 23:54:53 : INFO Trying to send data to appsone
+07/10/2019 23:54:53 : INFO Response Below:
+<A1 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="A1DCASchema.xsd"><A1Response version="1.0" id="cc227e53-69c1-4191-88ae-452b034d2a64" mode="MONITOR" ><Data><ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" ><Property value="null" result="SUCCESS" /></ComponentInstance><ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" ><Property value="null" result="SUCCESS" /></ComponentInstance><ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" ><Property value="null" result="SUCCESS" /></ComponentInstance><ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" ><Property value="null" result="SUCCESS" /></ComponentInstance><ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" ><Property value="null" result="SUCCESS" /></ComponentInstance><ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" ><Property value="null" result="SUCCESS" /></ComponentInstance><ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" ><Property value="null" result="SUCCESS" /></ComponentInstance><ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" ><Property value="null" result="SUCCESS" /></ComponentInstance><ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" ><Property value="null" result="SUCCESS" /></ComponentInstance><ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" ><Property value="null" result="SUCCESS" /></ComponentInstance><ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" ><Property value="null" result="SUCCESS" /></ComponentInstance><ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" ><Property value="null" result="SUCCESS" /></ComponentInstance><ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" ><Property value="null" result="SUCCESS" /></ComponentInstance><ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" ><Property value="null" result="SUCCESS" /></ComponentInstance><ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" ><Property value="null" result="SUCCESS" /></ComponentInstance><ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" ><Property value="null" result="SUCCESS" /></ComponentInstance><ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" ><Property value="null" result="SUCCESS" /></ComponentInstance><ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" ><Property value="null" result="SUCCESS" /></ComponentInstance><ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" ><Property value="null" result="SUCCESS" /></ComponentInstance><ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" ><Property value="null" result="SUCCESS" /></ComponentInstance></Data></A1Response></A1>
+07/10/2019 23:54:53 : INFO Processing finished
+07/10/2019 23:54:53 : INFO Purge days : 1
+07/10/2019 23:54:54 : INFO Clearing log files and folders older than 1 days
+07/10/2019 23:54:54 : INFO ---------------------Execution finished-------------------

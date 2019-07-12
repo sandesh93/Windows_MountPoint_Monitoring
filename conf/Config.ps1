@@ -2,17 +2,17 @@
 
 # Update the below with appsone collection service details
 # Enterprise name should not be display name
-$HOST_NAME = "10.50.52.118"
-$PORT_ = 9111
+$HOST_NAME = "10.226.211.160"
+$PORT_ = 9101
 $ENTERPRISE = "HDFC"
-$COMPONENT = "Windows_MountPoint_Monitoring"
-$COMPONENT_INST = "CRMNext_FreeSpace_121"
+$COMPONENT = "CRMNEXT_MOUNTPOINT"
+$COMPONENT_INST = "CRMNEXT_MOUNTPOINT_146"
 
-$AGENT_ID = "248c75ad-2c99-4773-bbef-8af9e31439c7"
+$AGENT_ID = "cc227e53-69c1-4191-88ae-452b034d2a64"
 $URL = "CollectionServiceData"
 
 #Update BASE_PATH value where you will place this Script.
-$BASE_PATH="F:\Windows_MountPoint_Monitoring"
+$BASE_PATH="F:\APPNOMIC\Windows_MountPoint_Monitoring"
 
 	
 ##Define KPI related Details

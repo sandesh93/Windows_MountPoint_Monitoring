@@ -177,47 +177,36 @@ for($i=0; $i -lt $arg_cnt; $i++)
 {
 	$line = $($DETAILS[$i])
 	if (!$line) { continue }
-    Clear-Content -Path $BASE_PATH\final.txt
-    Clear-Content -Path $BASE_PATH\input.txt
-    
-    $drivedetails=(get-volume |select driveletter, FilesystemLabel, @{L='PCT_FREE';E={"{0:0}" -f (($_.sizeremaining/$_.size)*100)}}) 
-    
-    foreach ($line in $drivedetails){
-    $line | Select-Object driveletter, FilesystemLabel,PCT_FREE | Add-Content $BASE_PATH\input.txt
-    }  ###Create Input Object File
-           
-    $input=get-content $BASE_PATH\input.txt 
-    	
-	foreach ($line in $input)
-    {
-	    #$line
-        $drive=($line.Split('=;')[1]);
-        $fslabel=($line.Split('=;')[3]) -replace ('\W','');
-        $freespace=($line.Split('=')[3]) -replace ".$";
 
-        if ( ($drive -ne "") -and (-not [string]::IsNullOrWhiteSpace($freespace))){
-    	"$drive,$freespace" | Out-File -Append $BASE_PATH\final.txt
-     	}
-	    elseif( ($fslabel -ne "") -and (-not [string]::IsNullOrWhiteSpace($freespace)))
-        {
-        "$fslabel,$freespace" | Out-File -Append $BASE_PATH\final.txt
-	    }
-    } ###Genrate Merge Columns 
+	$DriveDetails=(get-volume |select driveletter, FilesystemLabel, @{L='PCT_FREE';E={"{0:N}" -f (($_.sizeremaining/$_.size)*100)}})
+	#echo $DriveDetails
+	Clear-Content -Path $BASE_PATH\out.txt
 
-    $log=get-content $BASE_PATH\final.txt 
-    
-    foreach ($line in $log)
-    { 
-        $KPI_NAME=(($line.Split(',')[0])) ;
-        $VALUE=(($line.Split(',')[1])); 
-         xmlTmpWrite ($KPI_NAME) ($VALUE);
-	} ### Create Final KPI with Value.
+	foreach ($line in $DriveDetails){
+	#$line
+	if ( -not [string]::IsNullOrWhiteSpace($line.driveletter) -and (-not [string]::IsNullOrWhiteSpace($line.PCT_FREE))){
+	($line | Select-Object driveletter,PCT_FREE | Select-Object @{Label='MountPoint'; Expression={$_.driveletter}}, @{Label='Free_Space'; Expression={$_.PCT_FREE}}) | Add-Content $BASE_PATH\out.txt
+ 	}
+	elseif(-not [string]::IsNullOrWhiteSpace($line.FilesystemLabel) -and (-not [string]::IsNullOrWhiteSpace($line.PCT_FREE))){
+	($line | Select-Object FilesystemLabel,PCT_FREE | Select-Object @{Label='MountPoint'; Expression={$_.FilesystemLabel}}, @{Label='Free_Space'; Expression={$_.PCT_FREE}}) | Add-Content $BASE_PATH\out.txt
+	}
+}
+$log=get-content $BASE_PATH\out.txt 
+foreach ($line in $log) { 
+	#((($line.Split('=',2)[1]) -replace "; Free_Space=" ," ")-replace ".$") ; xmlTmpWrite ($KPI_NAME) ($VALUE) ;     #####This should genrate KPI and its Value in xml
 
-} ##END Of main For
+$KPI_NAME=(($line.Split(';=')[1])) ;
+$VALUE=(($line.Split('=')[2]))-replace ".$"; 
+ xmlTmpWrite ($KPI_NAME) ($VALUE);
+	}
+
+ 
+	}
 
 	
  sendtoappsone
  return
+
 }
 
 Logwrite "-----------------------Execution started--------------------"
