@@ -180,10 +180,10 @@ for($i=0; $i -lt $arg_cnt; $i++)
     Clear-Content -Path $BASE_PATH\final.txt
     Clear-Content -Path $BASE_PATH\input.txt
     
-    $drivedetails=(get-volume |select driveletter, FilesystemLabel, @{L='PCT_FREE';E={"{0:0}" -f (($_.sizeremaining/$_.size)*100)}}) 
+    $drivedetails=(get-volume |select driveletter, FilesystemLabel, @{L='PCT_USED';E={"{0:0}" -f (100-($_.sizeremaining/$_.size)*100)}}) 
     
     foreach ($line in $drivedetails){
-    $line | Select-Object driveletter, FilesystemLabel,PCT_FREE | Add-Content $BASE_PATH\input.txt
+    $line | Select-Object driveletter, FilesystemLabel,PCT_USED | Add-Content $BASE_PATH\input.txt
     }  ###Create Input Object File
            
     $input=get-content $BASE_PATH\input.txt 

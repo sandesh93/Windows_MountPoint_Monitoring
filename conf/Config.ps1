@@ -12,7 +12,7 @@ $AGENT_ID = "cc227e53-69c1-4191-88ae-452b034d2a64"
 $URL = "CollectionServiceData"
 
 #Update BASE_PATH value where you will place this Script.
-$BASE_PATH="F:\APPNOMIC\Windows_MountPoint_Monitoring"
+$BASE_PATH="F:\tempp\Windows_MountPoint_Monitoring"
 
 	
 ##Define KPI related Details

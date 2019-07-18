@@ -1,0 +1,87 @@
+07/18/2019 15:48:28 : INFO -----------------------Execution started--------------------
+07/18/2019 15:48:28 : INFO ----Config.ps1 Processing started----
+07/18/2019 15:48:28 : INFO Reading variables from Config.ps1
+07/18/2019 15:48:28 : INFO Config.ps1 included
+07/18/2019 15:48:37 : INFO xml created as below:
+<A1 xsi:noNamespaceSchemaLocation="A1DCASchema.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<A1Request id="cc227e53-69c1-4191-88ae-452b034d2a64" version="1.0" mode="MONITOR">
+<Data>
+</Data>
+</A1Request>
+</A1>
+07/18/2019 15:48:37 : INFO Trying to send data to appsone
+07/18/2019 15:48:47 : INFO Exception Message: Exception calling "GetRequestStream" with "0" argument(s): "The operation has timed out"
+07/18/2019 15:48:47 : INFO Processing finished
+07/18/2019 15:48:47 : INFO Purge days : 1
+07/18/2019 15:48:47 : INFO Clearing log files and folders older than 1 days
+07/18/2019 15:48:47 : INFO ---------------------Execution finished-------------------
+07/18/2019 15:52:19 : INFO -----------------------Execution started--------------------
+07/18/2019 15:52:19 : INFO ----Config.ps1 Processing started----
+07/18/2019 15:52:19 : INFO Reading variables from Config.ps1
+07/18/2019 15:52:19 : INFO Config.ps1 included
+07/18/2019 15:52:26 : INFO xml created as below:
+<A1 xsi:noNamespaceSchemaLocation="A1DCASchema.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<A1Request id="cc227e53-69c1-4191-88ae-452b034d2a64" version="1.0" mode="MONITOR">
+<Data>
+</Data>
+</A1Request>
+</A1>
+07/18/2019 15:52:26 : INFO Trying to send data to appsone
+07/18/2019 15:52:36 : INFO Exception Message: Exception calling "GetRequestStream" with "0" argument(s): "The operation has timed out"
+07/18/2019 15:52:36 : INFO Processing finished
+07/18/2019 15:52:36 : INFO Purge days : 1
+07/18/2019 15:52:36 : INFO Clearing log files and folders older than 1 days
+07/18/2019 15:52:36 : INFO ---------------------Execution finished-------------------
+07/18/2019 15:54:26 : INFO -----------------------Execution started--------------------
+07/18/2019 15:54:26 : INFO ----Config.ps1 Processing started----
+07/18/2019 15:54:26 : INFO Reading variables from Config.ps1
+07/18/2019 15:54:26 : INFO Config.ps1 included
+07/18/2019 15:54:33 : INFO xml created as below:
+<A1 xsi:noNamespaceSchemaLocation="A1DCASchema.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<A1Request id="cc227e53-69c1-4191-88ae-452b034d2a64" version="1.0" mode="MONITOR">
+<Data>
+<ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" enterprise="HDFC" >
+<KPIs>
+<KPI name="D" value="92"/>
+<KPI name="Time" value="2019-07-18 10:24:32"/>
+</KPIs>
+</ComponentInstance>
+<ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" enterprise="HDFC" >
+<KPIs>
+<KPI name="S" value="18"/>
+<KPI name="Time" value="2019-07-18 10:24:32"/>
+</KPIs>
+</ComponentInstance>
+<ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" enterprise="HDFC" >
+<KPIs>
+<KPI name="WINRE_DRV" value="32"/>
+<KPI name="Time" value="2019-07-18 10:24:32"/>
+</KPIs>
+</ComponentInstance>
+<ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" enterprise="HDFC" >
+<KPIs>
+<KPI name="C" value="88"/>
+<KPI name="Time" value="2019-07-18 10:24:32"/>
+</KPIs>
+</ComponentInstance>
+<ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" enterprise="HDFC" >
+<KPIs>
+<KPI name="F" value="3"/>
+<KPI name="Time" value="2019-07-18 10:24:32"/>
+</KPIs>
+</ComponentInstance>
+<ComponentInstance name="CRMNEXT_MOUNTPOINT_146" component="CRMNEXT_MOUNTPOINT" enterprise="HDFC" >
+<KPIs>
+<KPI name="PBR_DRV" value="77"/>
+<KPI name="Time" value="2019-07-18 10:24:32"/>
+</KPIs>
+</ComponentInstance>
+</Data>
+</A1Request>
+</A1>
+07/18/2019 15:54:33 : INFO Trying to send data to appsone
+07/18/2019 15:54:43 : INFO Exception Message: Exception calling "GetRequestStream" with "0" argument(s): "The operation has timed out"
+07/18/2019 15:54:43 : INFO Processing finished
+07/18/2019 15:54:43 : INFO Purge days : 1
+07/18/2019 15:54:43 : INFO Clearing log files and folders older than 1 days
+07/18/2019 15:54:43 : INFO ---------------------Execution finished-------------------
