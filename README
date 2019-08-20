@@ -1,23 +1,28 @@
-Pre-requisites
-	Powershell version 5.0 or above should be available.
-	Powershell script execution permission should be there.
-	All required component,component instance is created on appsone ui
-	Required KPI is added to component.
+Pre-requisites:
+		Powershell version 5.0 or above should be available.
+		Powershell script execution permission should be there.
+		TaskSechdular service should be running and user should have access to schedule script. 
 
-Configuration
+Configuration:
  
-    The KPI name will be configurable in Config.ps1.
-	Component Name will be user defined and should be provided in Config.ps1.
-    Component Instance Name, Remote IP and Remote Port will be configurable in Config.ps1 as colon separated values and entering correct values would be user's responsibility.ex: $DEATAILS[0] = "MyComponentInstanceName:10.1.1.170:25"
-	$DEATAILS[1] = "MyComponentInstanceName:10.1.1.175:25"
+		- Do not delete any existing files from this package (you may delete log folder)
+		- The KPI and its value will be produced as output.
+		- Below details should be provided in conf/Config.ps1.
+			e.g $HOST_NAME = "10.226.211.160"  (collection service IP)   
+			e.g $PORT_ = 9101     (collection service IP)
+			e.g $ENTERPRISE = "HDFC" 
+			e.g $COMPONENT = "CRMNEXT_MOUNTPOINT"
+			e.g $COMPONENT_INST = "CRMNEXT_MOUNTPOINT_146"
+			e.g $AGENT_ID = "cc227e53-69c1-4191-88ae-452b034d2a64" 
+			e.g $BASE_PATH="F:\APPNOMIC\Windows_MountPoint_Monitoring"  (This path refers to location where you would place this script)
+		- Execute "Windows_MountPoint_Monitoring" batch file which will generate final.txt file.
+		- Refer final.txt file to configure all kpis in AppsOne UI.
+		- Run bat file manually to check if it sending data to AppsOne and verify the same from UI.
+		- Finally, set this batch in TaskSechdular with required time interval to send continuous data to AppsOne & verify again.
     
-	If any field IP:Port pair is blank, the script would ignore the entry.
-    If Component Instance name is not given, then it could will be default value, i.e. baseIP(from where the script runs)_remoteIP(the IP we are monitoring)_remotePort and it will be created dynamically by the script. Ex: 10_1_1_174_25. But it has to be created in the same name at A1 UI, otherwise it won't be captured.
    
-
-	
-Usage
+Usage:
     The script runs like below:
-	.\Windows_MountPoint_Monitoring.ps1 -h [Display help message]
-	.\Windows_MountPoint_Monitoring.ps1 -v [Display version]
-    .\Windows_MountPoint_Monitoring.ps1 
+		.\Windows_MountPoint_Monitoring.ps1 -h [Display help message]
+		.\Windows_MountPoint_Monitoring.ps1 -v [Display version]
+		.\Windows_MountPoint_Monitoring.ps1 
